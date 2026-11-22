@@ -1,5 +1,5 @@
 export const SITE_NAME = 'na.digital'
-export const SITE_URL = 'https://na.digital'
+export const SITE_URL = 'https://na-digital.netlify.app'
 
 export function createPageMetadata({
   title,
@@ -33,7 +33,7 @@ export function createPageMetadata({
     openGraph: {
       title,
       description,
-      url: path,
+      url: localizedPath,
       type,
       siteName: SITE_NAME,
       locale: locale === 'en' ? 'en_GB' : 'ro_RO',

@@ -4,7 +4,7 @@ import copyEn from "./shared/copy.en.json";
 
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
-import { useEffect, useState, useSyncExternalStore } from "react";
+import { useEffect, useRef, useState, useSyncExternalStore } from "react";
 import { Check, Palette } from "lucide-react";
 
 const themeNames = copy.header.theme_options.map((item) => item.name);
@@ -83,7 +83,9 @@ export default function Header({ locale = "ro" }) {
   const pathname = usePathname();
   const router = useRouter();
   const [menuOpen, setMenuOpen] = useState(false);
+  const [openSelector, setOpenSelector] = useState(null);
   const [languageError, setLanguageError] = useState("");
+  const selectorGroupRef = useRef(null);
   const strings = locale === "en" ? copyEn : copy;
   const language = locale;
   const { theme, error: themeError } = useSyncExternalStore(
@@ -100,6 +102,31 @@ export default function Header({ locale = "ro" }) {
   useEffect(() => {
     applyTheme(theme);
   }, [theme]);
+
+  useEffect(() => {
+    if (!openSelector) return undefined;
+
+    function handlePointerDown(event) {
+      if (!selectorGroupRef.current?.contains(event.target)) {
+        setOpenSelector(null);
+      }
+    }
+
+    function handleKeyDown(event) {
+      if (event.key !== "Escape") return;
+      const selector = openSelector;
+      setOpenSelector(null);
+      document.getElementById(`${selector}-selector-trigger`)?.focus();
+    }
+
+    document.addEventListener("pointerdown", handlePointerDown);
+    document.addEventListener("keydown", handleKeyDown);
+
+    return () => {
+      document.removeEventListener("pointerdown", handlePointerDown);
+      document.removeEventListener("keydown", handleKeyDown);
+    };
+  }, [openSelector]);
 
   const services = [
     "/lunar",
@@ -213,19 +240,35 @@ export default function Header({ locale = "ro" }) {
           >
             {strings.header.cine_suntem}
           </Link>
-          <div className="dropdown dropdown-end relative flex-none max-[860px]:my-2 max-[860px]:self-start">
+          <div
+            ref={selectorGroupRef}
+            className="flex items-center gap-2 max-[860px]:my-2 max-[860px]:self-start"
+          >
+          <div className="relative flex-none">
             <button
+              id="theme-selector-trigger"
               type="button"
               className="inline-flex h-10 min-h-10 w-10 min-w-10 cursor-pointer items-center justify-center rounded-xl border border-brand-border bg-brand-white p-2 text-brand-ink shadow-none"
               aria-label={`${strings.header.tema}: ${strings.header.theme_options.find((item) => item.name === theme)?.label}`}
               title={`${strings.header.tema}: ${strings.header.theme_options.find((item) => item.name === theme)?.label}`}
+              aria-expanded={openSelector === "theme"}
+              aria-controls="theme-selector-menu"
+              aria-haspopup="menu"
+              onClick={() =>
+                setOpenSelector((current) =>
+                  current === "theme" ? null : "theme",
+                )
+              }
             >
               <Palette aria-hidden="true" />
             </button>
             <ul
-              tabIndex={0}
-              className="menu dropdown-content absolute top-[calc(100%+8px)] right-0 z-40 w-[190px] rounded-[14px] border border-brand-border bg-brand-white p-[6px] text-brand-ink shadow-[0_12px_32px_rgba(30,18,12,0.14)] max-[860px]:top-[calc(100%+4px)] max-[860px]:right-auto max-[860px]:left-0"
+              id="theme-selector-menu"
+              className={`menu absolute top-[calc(100%+8px)] right-0 z-40 w-[190px] rounded-[14px] border border-brand-border bg-brand-white p-[6px] text-brand-ink shadow-[0_12px_32px_rgba(30,18,12,0.14)] max-[860px]:top-[calc(100%+4px)] max-[860px]:right-auto max-[860px]:left-0 ${
+                openSelector === "theme" ? "block" : "hidden"
+              }`}
               aria-label={strings.header.alege_tema}
+              role="menu"
             >
               {strings.header.theme_options.map((item) => (
                 <li key={item.name}>
@@ -236,7 +279,10 @@ export default function Header({ locale = "ro" }) {
                     className={`flex min-h-10 items-center gap-2.5 rounded-[9px] text-[14px] text-brand-ink [font:inherit] hover:bg-brand-cream-muted ${
                       theme === item.name ? "bg-brand-cream-muted" : ""
                     }`}
-                    onClick={() => changeTheme(item.name, strings.header)}
+                    onClick={() => {
+                      changeTheme(item.name, strings.header);
+                      setOpenSelector(null);
+                    }}
                   >
                     <span
                       className={`h-[18px] w-[18px] flex-none rounded-full border border-brand-border-strong ${
@@ -257,12 +303,21 @@ export default function Header({ locale = "ro" }) {
               ))}
             </ul>
           </div>
-          <div className="dropdown dropdown-end relative flex-none max-[860px]:my-2 max-[860px]:self-start">
+          <div className="relative flex-none">
             <button
+              id="language-selector-trigger"
               type="button"
               className="inline-flex h-10 min-h-10 w-10 min-w-10 cursor-pointer items-center justify-center rounded-xl border border-brand-border bg-brand-white p-2 text-brand-ink shadow-none"
               aria-label={`${strings.header.limba}: ${strings.header.language_options.find((item) => item.name === language)?.label}`}
               title={`${strings.header.limba}: ${strings.header.language_options.find((item) => item.name === language)?.label}`}
+              aria-expanded={openSelector === "language"}
+              aria-controls="language-selector-menu"
+              aria-haspopup="menu"
+              onClick={() =>
+                setOpenSelector((current) =>
+                  current === "language" ? null : "language",
+                )
+              }
             >
               {language === "en" ? (
                 <svg
@@ -297,9 +352,12 @@ export default function Header({ locale = "ro" }) {
               )}
             </button>
             <ul
-              tabIndex={0}
-              className="menu dropdown-content absolute top-[calc(100%+8px)] right-0 z-40 w-[190px] rounded-[14px] border border-brand-border bg-brand-white p-[6px] text-brand-ink shadow-[0_12px_32px_rgba(30,18,12,0.14)] max-[860px]:top-[calc(100%+4px)] max-[860px]:right-auto max-[860px]:left-0"
+              id="language-selector-menu"
+              className={`menu absolute top-[calc(100%+8px)] right-0 z-40 w-[190px] rounded-[14px] border border-brand-border bg-brand-white p-[6px] text-brand-ink shadow-[0_12px_32px_rgba(30,18,12,0.14)] max-[860px]:top-[calc(100%+4px)] max-[860px]:right-auto max-[860px]:left-0 ${
+                openSelector === "language" ? "block" : "hidden"
+              }`}
               aria-label={strings.header.alege_limba}
+              role="menu"
             >
               {strings.header.language_options.map((item) => (
                 <li key={item.name}>
@@ -310,7 +368,10 @@ export default function Header({ locale = "ro" }) {
                     className={`flex min-h-10 items-center gap-2.5 rounded-[9px] text-[14px] text-brand-ink [font:inherit] hover:bg-brand-cream-muted ${
                       language === item.name ? "bg-brand-cream-muted" : ""
                     }`}
-                    onClick={() => changeLanguage(item.name)}
+                    onClick={() => {
+                      setOpenSelector(null);
+                      changeLanguage(item.name);
+                    }}
                   >
                     <span>{item.label}</span>
                     {language === item.name && (
@@ -320,6 +381,7 @@ export default function Header({ locale = "ro" }) {
                 </li>
               ))}
             </ul>
+          </div>
           </div>
           <Link
             href={localizedHref("/contact")}
