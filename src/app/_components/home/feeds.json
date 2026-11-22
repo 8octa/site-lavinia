@@ -1,0 +1,79 @@
+[
+  {
+    "label": "Postări",
+    "posts": [
+      [
+        "na",
+        "Cea mai folosită interjecție românească între noi două. Așa dăm mai departe ce știm.",
+        "white"
+      ],
+      [
+        "Cum se face",
+        "Tutoriale pe care le poți aplica singur, fără să ai nevoie de noi.",
+        "mustard"
+      ],
+      [
+        "Trendul",
+        "Ce merge acum pe Instagram și TikTok și dacă merită pentru tine.",
+        "sky"
+      ],
+      ["Adevărul", "Ce nu-ți spune nimeni despre industria asta.", "ink"],
+      [
+        "Întrebarea",
+        "Ne întrebi orice despre social media, îți răspundem într-o postare sau în DM.",
+        "purple"
+      ],
+      ["Ce-am făcut", "Proiectele noastre, cu tot cu proces.", "tomato"]
+    ]
+  },
+  {
+    "label": "Fixate",
+    "posts": [
+      [
+        "na.digital",
+        "Două fondatoare. Cinci serii în feed. Zero deck-uri de 80 de slide-uri.",
+        "white"
+      ],
+      [
+        "Ce facem",
+        "Strategie, conținut și administrare social media, lună de lună.",
+        "mustard"
+      ],
+      [
+        "Cine suntem",
+        "Două prietene din publicitate, care dau mai departe ce știu.",
+        "purple"
+      ],
+      [
+        "Cum lucrăm",
+        "O zi de filmare. Conținut gândit direct pentru feed.",
+        "sky"
+      ],
+      ["Ce-am făcut", "Povești și proiecte la care ținem.", "tomato"],
+      ["Hai să vorbim", "Spune-ne unde ești și unde vrei să ajungi.", "ink"]
+    ]
+  },
+  {
+    "label": "Carusele",
+    "posts": [
+      [
+        "Profilul",
+        "Ce vede cineva când intră prima dată pe contul tău?",
+        "white"
+      ],
+      [
+        "Conținutul",
+        "Idei pe care le poți transforma în postări utile.",
+        "mustard"
+      ],
+      ["Trend sau idee?", "Cum alegi ce merită să ajungă în feed.", "sky"],
+      ["Adevărul", "Social media, fără promisiuni de viralitate.", "ink"],
+      [
+        "Întrebări bune",
+        "Răspunsuri scurte la întrebări pe care ni le pui des.",
+        "purple"
+      ],
+      ["Din proiecte", "Ce am făcut, ce am învățat și ce a ieșit.", "tomato"]
+    ]
+  }
+]

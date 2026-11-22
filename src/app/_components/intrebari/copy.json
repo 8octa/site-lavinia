@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "Întrebări frecvente",
+    "description": "Află cum lucrăm la na.digital, ce implică colaborarea lunară, ce conține un audit și cum se organizează proiectele cu artiști."
+  },
+  "structured_data": {
+    "ce_trebuie_sa_fac_eu": "Ce trebuie să fac eu?",
+    "o_discutie_la_inceput_o_zi_pe_luna_pentr": "O discuție la început, o zi pe lună pentru filmare și cinci minute pentru raport. Restul este realizat de echipa na.digital.",
+    "de_ce_minimum_3_luni_la_lunar": "De ce minimum 3 luni la Lunar?",
+    "in_prima_luna_se_testeaza_formatele_orel": "În prima lună se testează formatele, orele și tonul. Rezultatele măsurabile apar după ce publicul începe să recunoască brandul.",
+    "ce_ramane_la_mine_dupa_na_audit_daca_nu": "Ce rămâne la mine după NA Audit, dacă nu mergem mai departe?",
+    "planul_de_90_de_zile_ramane_al_clientulu": "Planul de 90 de zile rămâne al clientului și poate fi aplicat singur sau împreună cu altcineva.",
+    "am_deja_o_agentie_putem_lucra_impreuna": "Am deja o agenție. Putem lucra împreună?",
+    "da_na_digital_poate_prelua_partea_de_soc": "Da. na.digital poate prelua partea de social media și lucra împreună cu agenția existentă, nu în locul ei.",
+    "lucrati_si_cu_firme_din_afara_bucurestiu": "Lucrați și cu firme din afara Bucureștiului?",
+    "da_strategia_si_textele_se_pot_realiza_d": "Da. Strategia și textele se pot realiza de oriunde; organizarea filmărilor se stabilește în funcție de locație și proiect.",
+    "cum_functioneaza_pachetele_cu_artistii": "Cum funcționează pachetele cu artiștii?",
+    "se_stabileste_impreuna_ce_proiect_este_s": "Se stabilește împreună ce proiect este și unde va apărea, apoi artiștii sunt creditați în proiect și apar și pe contul na.digital.",
+    "ce_primesc_gratis": "Ce primesc gratis?",
+    "tot_continutul_publicat_pe_instagram_si": "Tot conținutul publicat pe Instagram și TikTok, lista gratuită și, dacă proiectul este ales, un mini-audit făcut public."
+  },
+  "ui": {
+    "ce_trebuie_sa_fac_eu": "Ce trebuie să fac eu?",
+    "o_discutie_la_inceput_o_zi_pe_luna_pentr": "O discuție la început, o zi pe lună pentru filmare și cinci minute pentru raport. Restul este realizat de echipa na.digital.",
+    "de_ce_minimum_3_luni_la_lunar": "De ce minimum 3 luni la Lunar?",
+    "in_prima_luna_se_testeaza_formatele_orel": "În prima lună se testează formatele, orele și tonul. Rezultatele măsurabile apar după ce publicul începe să recunoască brandul.",
+    "ce_ramane_la_mine_dupa_na_audit_daca_nu": "Ce rămâne la mine după NA Audit, dacă nu mergem mai departe?",
+    "planul_de_90_de_zile_ramane_al_clientulu": "Planul de 90 de zile rămâne al clientului și poate fi aplicat singur sau împreună cu altcineva.",
+    "am_deja_o_agentie_putem_lucra_impreuna": "Am deja o agenție. Putem lucra împreună?",
+    "da_na_digital_poate_prelua_partea_de_soc": "Da. na.digital poate prelua partea de social media și lucra împreună cu agenția existentă, nu în locul ei.",
+    "lucrati_si_cu_firme_din_afara_bucurestiu": "Lucrați și cu firme din afara Bucureștiului?",
+    "da_strategia_si_textele_se_pot_realiza_d": "Da. Strategia și textele se pot realiza de oriunde; organizarea filmărilor se stabilește în funcție de locație și proiect.",
+    "cum_functioneaza_pachetele_cu_artistii": "Cum funcționează pachetele cu artiștii?",
+    "se_stabileste_impreuna_ce_proiect_este_s": "Se stabilește împreună ce proiect este și unde va apărea, apoi artiștii sunt creditați în proiect și apar și pe contul na.digital.",
+    "ce_primesc_gratis": "Ce primesc gratis?",
+    "tot_continutul_publicat_pe_instagram_si": "Tot conținutul publicat pe Instagram și TikTok, lista gratuită și, dacă proiectul este ales, un mini-audit făcut public."
+  },
+  "hero": {
+    "unde_esti": "Unde ești",
+    "na_digital": "na.digital",
+    "separator": "/",
+    "intrebari": "Întrebări",
+    "intrebari_inainte_sa_vorbim": "Întrebări, înainte să vorbim",
+    "raspunsuri_scurte_la_ce_ne_intreaba_cei": "Răspunsuri scurte la ce ne întreabă cei mai mulți. Apasă pe o întrebare ca să vezi răspunsul."
+  },
+  "sections": {
+    "cum_incepem": {
+      "cum_incepem": "Cum începem",
+      "ce_trebuie_sa_fac_eu": "Ce trebuie să fac eu?",
+      "o_discutie_la_inceput_o_zi_pe_luna_pentr": "O discuție la început, o zi pe lună pentru filmare și cinci minute pentru raport. Restul e treaba noastră.",
+      "de_ce_minimum_3_luni_la_lunar": "De ce minimum 3 luni la Lunar?",
+      "in_prima_luna_testam_formate_ore_ton_rez": "În prima lună testăm: formate, ore, ton. Rezultatele care se pot măsura apar după ce publicul începe să te recunoască. Sub 3 luni ai plăti mai mult pentru pornire decât pentru rezultate.",
+      "ce_ramane_la_mine_dupa_na_audit_daca_nu": "Ce rămâne la mine după NA Audit, dacă nu mergem mai departe?",
+      "planul_de_90_de_zile_e_al_tau_il_poti_ap": "Planul de 90 de zile e al tău. Îl poți aplica singur sau cu altcineva."
+    },
+    "cum_lucram": {
+      "cum_lucram": "Cum lucrăm",
+      "am_deja_o_agentie_putem_lucra_impreuna": "Am deja o agenție. Putem lucra împreună?",
+      "da_preluam_partea_de_social_media_si_luc": "Da. Preluăm partea de social media și lucrăm cu agenția ta, nu în locul ei.",
+      "lucrati_si_cu_firme_din_afara_bucurestiu": "Lucrați și cu firme din afara Bucureștiului?",
+      "da_strategia_si_textele_merg_de_oriunde": "Da. Strategia și textele merg de oriunde. Pentru filmare, organizarea se stabilește împreună în funcție de locație și proiect."
+    },
+    "artisti_si_lucruri_gratis": {
+      "artisti_si_lucruri_gratis": "Artiști și lucruri gratis",
+      "cum_functioneaza_pachetele_cu_artistii": "Cum funcționează pachetele cu artiștii?",
+      "ne_spui_ce_vrei_sa_spui_si_unde_va_apare": "Ne spui ce vrei să spui și unde va apărea. Alegem împreună ce fac artiștii pentru tine. Artiștii sunt creditați în fiecare proiect și apar și pe contul na.",
+      "ce_primesc_gratis": "Ce primesc gratis?",
+      "tot_ce_publicam_pe_instagram_si_tiktok": "Tot ce publicăm pe Instagram și TikTok, ",
+      "lista_gratuita": "lista gratuită",
+      "si_daca_te_alegem_un_mini_audit_facut_pu": " și, dacă te alegem, un mini-audit făcut public."
+    },
+    "ne_vedem_la_cafea": {
+      "ne_vedem_la_cafea": "Ne vedem la cafea.",
+      "vorbim_deschis_despre_ce_ai_nevoie_si_ca": "Vorbim deschis despre ce ai nevoie și cât costă. Pe bune, cafeaua e de la noi.",
+      "hai_la_cafea": "Hai la cafea"
+    },
+    "contact_cta": {
+      "n_ai_gasit_ce_cautai": "N-ai găsit ce căutai?",
+      "scrie_ne_si_iti_raspundem_in_cel_mult_2": "Scrie-ne și îți răspundem în cel mult 2 zile lucrătoare.",
+      "hai_sa_vorbim": "Hai să vorbim"
+    }
+  }
+}

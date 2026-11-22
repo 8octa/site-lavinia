@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "Contact",
+    "description": "Programează o conversație cu na.digital despre administrarea social media, conținut video, audit, TikTok, email marketing sau colaborări cu artiști."
+  },
+  "hero": {
+    "unde_esti": "Unde ești",
+    "na_digital": "na.digital",
+    "separator": "/",
+    "contact": "Contact",
+    "hai_sa_vorbim": "Hai să vorbim.",
+    "vorbim_deschis_despre_ce_ai_nevoie_si_ca": "Vorbim deschis despre ce ai nevoie și cât costă. Alege o zi sau scrie-ne."
+  },
+  "sections": {
+    "scrie_ne": {
+      "scrie_ne": "Scrie-ne",
+      "nume": "Nume",
+      "email": "Email",
+      "firma_optional": "Firma (opțional)",
+      "cu_ce_te_putem_ajuta": "Cu ce te putem ajuta?",
+      "nu_stiu_inca": "Nu știu încă",
+      "na_social_media_lunar": "NA Social Media Lunar",
+      "na_content_creation": "NA Content Creation",
+      "na_audit": "NA Audit",
+      "na_tiktok_start": "NA TikTok Start",
+      "na_email_marketing": "NA Email Marketing",
+      "na_facut_de_mana_artisti": "NA Făcut de mână (artiști)",
+      "mesaj": "Mesaj",
+      "unde_esti_acum_si_unde_vrei_sa_ajungi": "Unde ești acum și unde vrei să ajungi?",
+      "folosim_datele_doar_ca_sa_ti_raspundem_d": "Folosim datele doar ca să-ți răspundem. Detalii în ",
+      "politica_de_confidentialitate": "politica de confidențialitate",
+      "period": ".",
+      "trimite": "Trimite",
+      "cel_mai_simplu": "cel mai simplu",
+      "programeaza_o_discutie": "Programează o discuție",
+      "alegi_o_zi_si_o_ora_din_calendar_iar_noi": "Alegi o zi și o oră din calendar, iar noi venim pregătite.",
+      "alege_o_zi": "Alege o zi",
+      "scrie_ne_prin_formular_si_revenim_cu_urm": "Scrie-ne prin formular și revenim cu următorul pas.",
+      "sau_direct": "Sau direct",
+      "intrebari_frecvente": "Întrebări frecvente",
+      "instagram": "Instagram",
+      "vezi_proiectele_noastre": "Vezi proiectele noastre",
+      "tiktok": "TikTok",
+      "ce_se_intampla_dupa": "Ce se întâmplă după",
+      "number_1": "1",
+      "ne_scrii": "Ne scrii",
+      "sau_alegi_direct_o_zi_iti_raspundem_in_c": "Sau alegi direct o zi. Îți răspundem în cel mult 2 zile lucrătoare.",
+      "number_2": "2",
+      "ne_auzim": "Ne auzim",
+      "ne_spui_unde_esti_si_unde_vrei_sa_ajungi": "Ne spui unde ești și unde vrei să ajungi.",
+      "number_3": "3",
+      "primesti_oferta": "Primești oferta",
+      "pretul_clar_si_in_scris_fara_surprize": "Prețul, clar și în scris. Fără surprize."
+    }
+  }
+}

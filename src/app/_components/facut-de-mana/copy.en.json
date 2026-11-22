@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "title": "Artist packages for brands",
+    "description": "Artist collaborations for brands: concept, handmade production, social content and experiences that present craftsmanship and ideas authentically."
+  },
+  "hero": {
+    "unde_esti": "Where you are",
+    "na_digital": "na.digital",
+    "separator": "/",
+    "ce_facem": "What we do",
+    "na_facut_de_mana": "NA Făcut de mână",
+    "cu_artistii_nostri": "with our artists",
+    "pachete_cu_artisti_pentru_branduri": "Artist packages for brands",
+    "pachete_personalizate_cu_artistii_cu_car": "Customized packages with the artists we work with: painting, clay and whatever else your brand needs.",
+    "hai_sa_vorbim": "Let’s talk",
+    "intrebari": "Questions"
+  },
+  "sections": {
+    "ce_primesti": {
+      "ce_primesti": "What you get",
+      "ilustratie_sau_pictura": "Illustration or painting",
+      "pentru_o_campanie_un_produs_sau_un_ambal": "For a campaign, product or package.",
+      "figurine_obiecte_si_vase_din_lut": "Clay figurines, objects and vases",
+      "pentru_continut_sau_pentru_spatiul_tau": "For content or for your space.",
+      "o_lucrare_pentru_un_moment": "One-of-a-kind artwork for a moment",
+      "o_lansare_sau_un_eveniment_care_merita_c": "A launch or event that deserves something unique.",
+      "cadouri_unicat": "One-of-a-kind gifts",
+      "pentru_clienti_sau_pentru_echipa": "For clients or for your team.",
+      "creditare_si_promovare": "Credit and promotion",
+      "artistii_sunt_creditati_in_fiecare_proie": "Artists are credited in every project and also feature on the NA account."
+    },
+    "artistii": {
+      "artistii": "The artists",
+      "un_tablou_de_al_ei": "[A PAINTING OF HERS]",
+      "detaliu": "[DETAIL]",
+      "in_atelier": "[IN THE STUDIO]",
+      "intr_o_postare": "[IN A POST]",
+      "pictura": "painting",
+      "bianca_morgociu": "Bianca Morgociu",
+      "pictorita_profesionista_cu_o_viziune_car": "A professional painter with an instantly recognizable vision. She creates commissioned paintings, each inspired by the person or story behind it. For a brand, that means one-of-a-kind artwork unlike anything else in the feed.",
+      "vezi_lucrarile_pe_instagram": "View the work on Instagram",
+      "o_piesa_de_a_lui": "[A PIECE OF HIS]",
+      "lut": "clay",
+      "alex_jujan": "Alex Jujan",
+      "artist_in_lut_face_figurine_obiecte_si_v": "A clay artist who makes figurines, objects and vases. Every piece passes through his hands, from its first shape to the final detail, so no two are alike.",
+      "vezi_lucrarile_link": "View the work [LINK]"
+    },
+    "pentru_cine_e": {
+      "pentru_cine_e": "Who it’s for",
+      "brandurile_care_vor_ceva_unic_nu_inca_o": "Brands that want something unique—not another generated image.",
+      "lansarile_si_evenimentele_care_au_nevoie": "Launches and events that need an object or an artwork.",
+      "cine_vrea_in_continut_lucruri_care_se_po": "Brands that want tangible things in their content: painting, clay and one-of-a-kind objects.",
+      "cine_lucreaza": "who does the work",
+      "lavinia_si_bianca_coordoneaza_artistii_n": "Lavinia and Bianca coordinate; our artists create."
+    },
+    "cum_decurge": {
+      "cum_decurge": "How it works",
+      "prima_discutie": "First conversation",
+      "ne_spui_ce_vrei_sa_spui_si_unde_va_apare": "Tell us what you want to say and where it will appear.",
+      "alegem_artistul": "We choose the artist",
+      "potrivim_stilul_cu_brandul_tau": "We match the style to your brand.",
+      "schite": "Sketches",
+      "vezi_directia_inainte_de_lucrarea_finala": "You see the direction before the final piece.",
+      "lucrarea": "The artwork",
+      "artistul_o_face_noi_o_aducem_in_continut": "The artist creates it; we bring it into the content."
+    },
+    "intrebari": {
+      "intrebari": "Questions",
+      "cum_functioneaza_pachetele_cu_artistii": "How do the artist packages work?",
+      "ne_spui_ce_vrei_sa_spui_si_unde_va_apare": "Tell us what you want to say and where it will appear.",
+      "cat_dureaza": "How long does it take?",
+      "depinde_de_lucrare_stabilim_termenul_de": "It depends on the piece. We agree on the timeline from the start, before anything begins.",
+      "cine_sunt_artistii": "Who are the artists?",
+      "bianca_morgociu_pictura_si_alex_jujan_lu": "Bianca Morgociu, painting, and Alex Jujan, clay. ",
+      "ii_gasesti_aici": "Find them here",
+      "period": "."
+    },
+    "celelalte_servicii": {
+      "celelalte_servicii": "Other services",
+      "na_social_media_lunar": "NA Social Media Lunar",
+      "conturile_tale_de_social_media_luna_de_l": "Your social media accounts, month by month: strategy, 10-12 posts, one filming day and a five-minute report.",
+      "na_content_creation": "NA Content Creation",
+      "filmam_editam_facem_continut_adevarat_cl": "We film and edit real content: clips and photos designed for mobile and ready to post.",
+      "na_audit": "NA Audit",
+      "tot_ce_ai_online_radiografiat_plan_de_90": "Everything you have online, reviewed. A 90-day plan on one page, in 10 days.",
+      "na_tiktok_start": "NA TikTok Start",
+      "cont_setat_directie_creativa_primele_8_c": "Account setup, creative direction, the first 8 clips and a playbook for your team.",
+      "na_email_marketing": "NA Email Marketing",
+      "emailuri_automate_campanii_si_o_lista_ca": "Automated emails, campaigns and a growing list."
+    },
+    "ne_vedem_la_cafea": {
+      "ne_vedem_la_cafea": "Let’s meet for coffee.",
+      "vorbim_deschis_despre_ce_ai_nevoie_si_ca": "We’ll talk openly about what you need and what it costs. And yes, the coffee is on us.",
+      "hai_la_cafea": "Let’s have coffee"
+    }
+  }
+}

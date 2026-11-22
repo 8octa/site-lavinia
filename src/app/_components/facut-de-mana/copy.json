@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "title": "Pachete cu artiști pentru branduri",
+    "description": "Colaborări cu artiști pentru branduri: concept, producție manuală, conținut social și activări în care meșteșugul și ideea sunt prezentate autentic."
+  },
+  "hero": {
+    "unde_esti": "Unde ești",
+    "na_digital": "na.digital",
+    "separator": "/",
+    "ce_facem": "Ce facem",
+    "na_facut_de_mana": "NA Făcut de mână",
+    "cu_artistii_nostri": "cu artiștii noștri",
+    "pachete_cu_artisti_pentru_branduri": "Pachete cu artiști pentru branduri",
+    "pachete_personalizate_cu_artistii_cu_car": "Pachete personalizate cu artiștii cu care lucrăm: pictură, lut și ce mai are nevoie brandul tău.",
+    "hai_sa_vorbim": "Hai să vorbim",
+    "intrebari": "Întrebări"
+  },
+  "sections": {
+    "ce_primesti": {
+      "ce_primesti": "Ce primești",
+      "ilustratie_sau_pictura": "Ilustrație sau pictură",
+      "pentru_o_campanie_un_produs_sau_un_ambal": "Pentru o campanie, un produs sau un ambalaj.",
+      "figurine_obiecte_si_vase_din_lut": "Figurine, obiecte și vase din lut",
+      "pentru_continut_sau_pentru_spatiul_tau": "Pentru conținut sau pentru spațiul tău.",
+      "o_lucrare_pentru_un_moment": "O lucrare pentru un moment",
+      "o_lansare_sau_un_eveniment_care_merita_c": "O lansare sau un eveniment care merită ceva unic.",
+      "cadouri_unicat": "Cadouri unicat",
+      "pentru_clienti_sau_pentru_echipa": "Pentru clienți sau pentru echipă.",
+      "creditare_si_promovare": "Creditare și promovare",
+      "artistii_sunt_creditati_in_fiecare_proie": "Artiștii sunt creditați în fiecare proiect și apar și pe contul na."
+    },
+    "artistii": {
+      "artistii": "Artiștii",
+      "un_tablou_de_al_ei": "[UN TABLOU DE-AL EI]",
+      "detaliu": "[DETALIU]",
+      "in_atelier": "[ÎN ATELIER]",
+      "intr_o_postare": "[ÎNTR-O POSTARE]",
+      "pictura": "pictură",
+      "bianca_morgociu": "Bianca Morgociu",
+      "pictorita_profesionista_cu_o_viziune_car": "Pictoriță profesionistă, cu o viziune care se recunoaște din prima. Face tablouri pe comandă, fiecare pornit de la omul sau de la povestea pentru care e pictat. Pentru un brand, asta înseamnă o lucrare unicat, care nu seamănă cu nimic din feed.",
+      "vezi_lucrarile_pe_instagram": "Vezi lucrările pe Instagram",
+      "o_piesa_de_a_lui": "[O PIESĂ DE-A LUI]",
+      "lut": "lut",
+      "alex_jujan": "Alex Jujan",
+      "artist_in_lut_face_figurine_obiecte_si_v": "Artist în lut. Face figurine, obiecte și vase. Fiecare piesă trece prin mâinile lui, de la prima formă la ultimul detaliu, așa că nu există două la fel.",
+      "vezi_lucrarile_link": "Vezi lucrările [LINK]"
+    },
+    "pentru_cine_e": {
+      "pentru_cine_e": "Pentru cine e",
+      "brandurile_care_vor_ceva_unic_nu_inca_o": "Brandurile care vor ceva unic, nu încă o imagine generată.",
+      "lansarile_si_evenimentele_care_au_nevoie": "Lansările și evenimentele care au nevoie de un obiect sau o lucrare.",
+      "cine_vrea_in_continut_lucruri_care_se_po": "Cine vrea în conținut lucruri care se pot atinge: pictură, lut, obiecte unicat.",
+      "cine_lucreaza": "cine lucrează",
+      "lavinia_si_bianca_coordoneaza_artistii_n": "Lavinia și Bianca coordonează, artiștii noștri creează."
+    },
+    "cum_decurge": {
+      "cum_decurge": "Cum decurge",
+      "prima_discutie": "Prima discuție",
+      "ne_spui_ce_vrei_sa_spui_si_unde_va_apare": "Ne spui ce vrei să spui și unde va apărea.",
+      "alegem_artistul": "Alegem artistul",
+      "potrivim_stilul_cu_brandul_tau": "Potrivim stilul cu brandul tău.",
+      "schite": "Schițe",
+      "vezi_directia_inainte_de_lucrarea_finala": "Vezi direcția înainte de lucrarea finală.",
+      "lucrarea": "Lucrarea",
+      "artistul_o_face_noi_o_aducem_in_continut": "Artistul o face, noi o aducem în conținut."
+    },
+    "intrebari": {
+      "intrebari": "Întrebări",
+      "cum_functioneaza_pachetele_cu_artistii": "Cum funcționează pachetele cu artiștii?",
+      "ne_spui_ce_vrei_sa_spui_si_unde_va_apare": "Ne spui ce vrei să spui și unde va apărea. Alegem împreună ce fac artiștii pentru tine. Artiștii sunt creditați în fiecare proiect și apar și pe contul na.",
+      "cat_dureaza": "Cât durează?",
+      "depinde_de_lucrare_stabilim_termenul_de": "Depinde de lucrare. Stabilim termenul de la început, înainte de orice.",
+      "cine_sunt_artistii": "Cine sunt artiștii?",
+      "bianca_morgociu_pictura_si_alex_jujan_lu": "Bianca Morgociu, pictură, și Alex Jujan, lut. ",
+      "ii_gasesti_aici": "Îi găsești aici",
+      "period": "."
+    },
+    "celelalte_servicii": {
+      "celelalte_servicii": "Celelalte servicii",
+      "na_social_media_lunar": "NA Social Media Lunar",
+      "conturile_tale_de_social_media_luna_de_l": "Conturile tale de social media, lună de lună: strategie, 10-12 postări, o zi de filmare, raport de 5 minute.",
+      "na_content_creation": "NA Content Creation",
+      "filmam_editam_facem_continut_adevarat_cl": "Filmăm, edităm, facem conținut adevărat: clipuri și poze gândite pentru telefon, gata de postat.",
+      "na_audit": "NA Audit",
+      "tot_ce_ai_online_radiografiat_plan_de_90": "Tot ce ai online, radiografiat. Plan de 90 de zile pe o pagină, în 10 zile.",
+      "na_tiktok_start": "NA TikTok Start",
+      "cont_setat_directie_creativa_primele_8_c": "Cont setat, direcție creativă, primele 8 clipuri și un playbook pentru echipa ta.",
+      "na_email_marketing": "NA Email Marketing",
+      "emailuri_automate_campanii_si_o_lista_ca": "Emailuri automate, campanii și o listă care crește."
+    },
+    "ne_vedem_la_cafea": {
+      "ne_vedem_la_cafea": "Ne vedem la cafea.",
+      "vorbim_deschis_despre_ce_ai_nevoie_si_ca": "Vorbim deschis despre ce ai nevoie și cât costă. Pe bune, cafeaua e de la noi.",
+      "hai_la_cafea": "Hai la cafea"
+    }
+  }
+}

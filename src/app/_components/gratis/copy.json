@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "title": "Lista gratuită de audit social media",
+    "description": "Primești sugestii de audit social media și resurse gratuite despre conținut, strategie și creșterea prezenței brandului în online."
+  },
+  "hero": {
+    "unde_esti": "Unde ești",
+    "na_digital": "na.digital",
+    "separator": "/",
+    "gratis": "Gratis",
+    "na_ia_de_aici": "Na, ia de aici.",
+    "number_40_de_intrebari_in_8_capitole_ca_sa_ti_v": "40 de întrebări în 8 capitole, ca să-ți verifici singur contul într-o pauză. E lista pe care o folosim și noi la NA Audit."
+  },
+  "sections": {
+    "lasa_ne_emailul_si_e_a_ta": {
+      "gratis": "gratis",
+      "lasa_ne_emailul_si_e_a_ta": "Lasă-ne emailul și e a ta.",
+      "verifica_ti_singur_contul_punct_cu_punct": "Verifică-ți singur contul, punct cu punct.",
+      "emailul_tau": "Emailul tău",
+      "nume_firma_ro": "nume@firma.ro",
+      "trimite_mi_lista": "Trimite-mi lista",
+      "vreau_si_newsletterul_na_din_cand_in_can": "Vreau și newsletterul na, din când în când.",
+      "folosim_emailul_doar_pentru_ce_ai_bifat": "Folosim emailul doar pentru ce ai bifat. Detalii în ",
+      "politica_de_confidentialitate": "politica de confidențialitate",
+      "period": ".",
+      "lista_gratuita": "Lista gratuită"
+    },
+    "ce_e_in_lista": {
+      "ce_e_in_lista": "Ce e în listă",
+      "number_1": "1",
+      "profilul": "Profilul",
+      "vitrina_pe_care_oamenii_o_judeca_in_cate": "Vitrina pe care oamenii o judecă în câteva secunde.",
+      "number_2": "2",
+      "feed_ul": "Feed-ul",
+      "testul_ultimelor_9_postari": "Testul ultimelor 9 postări.",
+      "number_3": "3",
+      "continutul": "Conținutul",
+      "nativ_sau_adaptat_diferenta_se_vede_din": "Nativ sau adaptat: diferența se vede din prima secundă.",
+      "number_4": "4",
+      "ritmul": "Ritmul",
+      "consecventa_bate_inspiratia": "Consecvența bate inspirația.",
+      "number_5": "5",
+      "comunitatea": "Comunitatea",
+      "un_cont_care_nu_raspunde_e_un_panou_publ": "Un cont care nu răspunde e un panou publicitar.",
+      "number_6": "6",
+      "cifrele": "Cifrele",
+      "salvarile_si_mesajele_spun_mai_mult_deca": "Salvările și mesajele spun mai mult decât like-urile.",
+      "number_7": "7",
+      "de_la_feed_la_vanzare": "De la feed la vânzare",
+      "unde_ajunge_omul_dupa_ce_te_place": "Unde ajunge omul după ce te place.",
+      "number_8": "8",
+      "partea_legala": "Partea legală",
+      "colaborari_marcate_ai_afirmatii_de_mediu": "Colaborări marcate, AI, afirmații de mediu, muzică."
+    },
+    "vrei_mai_mult": {
+      "vrei_mai_mult": "Vrei mai mult?",
+      "na_audit_public": "na, audit public",
+      "vrei_un_mini_audit_gratuit_facut_public": "Vrei un mini-audit gratuit, făcut public?",
+      "alegem_cate_un_cont_si_il_analizam_pe_co": "Alegem câte un cont și îl analizăm pe contul nostru, cu acordul tău.",
+      "hai_sa_vorbim": "Hai să vorbim",
+      "na_audit": "NA Audit",
+      "vrei_sa_ne_uitam_noi": "Vrei să ne uităm noi?",
+      "aceeasi_lista_facuta_de_noi_plus_un_plan": "Aceeași listă, făcută de noi, plus un plan de 90 de zile pe o pagină. În 10 zile.",
+      "despre_na_audit": "Despre NA Audit"
+    },
+    "ne_vedem_la_cafea": {
+      "ne_vedem_la_cafea": "Ne vedem la cafea.",
+      "vorbim_deschis_despre_ce_ai_nevoie_si_ca": "Vorbim deschis despre ce ai nevoie și cât costă. Pe bune, cafeaua e de la noi.",
+      "hai_la_cafea": "Hai la cafea"
+    }
+  }
+}

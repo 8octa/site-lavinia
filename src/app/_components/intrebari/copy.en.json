@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "Frequently asked questions",
+    "description": "Find out how we work at na.digital, what a monthly collaboration involves, what an audit includes, and how artist projects are organised."
+  },
+  "structured_data": {
+    "ce_trebuie_sa_fac_eu": "What do I need to do?",
+    "o_discutie_la_inceput_o_zi_pe_luna_pentr": "An initial conversation, one day per month for filming, and five minutes for the report. Everything else is handled by the na.digital team.",
+    "de_ce_minimum_3_luni_la_lunar": "Why is the monthly package a minimum of 3 months?",
+    "in_prima_luna_se_testeaza_formatele_orel": "The formats, posting times, and tone are tested in the first month. Measurable results appear after the audience begins to recognise the brand.",
+    "ce_ramane_la_mine_dupa_na_audit_daca_nu": "What do I keep after an NA Audit if we don’t continue?",
+    "planul_de_90_de_zile_ramane_al_clientulu": "The 90-day plan belongs to the client and can be implemented independently or with someone else.",
+    "am_deja_o_agentie_putem_lucra_impreuna": "I already have an agency. Can we work together?",
+    "da_na_digital_poate_prelua_partea_de_soc": "Yes. na.digital can take over the social media side and work alongside the existing agency, rather than replacing it.",
+    "lucrati_si_cu_firme_din_afara_bucurestiu": "Do you work with companies outside Bucharest?",
+    "da_strategia_si_textele_se_pot_realiza_d": "Yes. Strategy and copy can be developed from anywhere; filming arrangements are set according to location and project.",
+    "cum_functioneaza_pachetele_cu_artistii": "How do the artist packages work?",
+    "se_stabileste_impreuna_ce_proiect_este_s": "We decide together what the project is and where it will appear, then the artists are credited in the project and also feature on the na.digital account.",
+    "ce_primesc_gratis": "What do I get for free?",
+    "tot_continutul_publicat_pe_instagram_si": "All content published on Instagram and TikTok, the free checklist, and, if the project is selected, a publicly published mini-audit."
+  },
+  "ui": {
+    "ce_trebuie_sa_fac_eu": "What do I need to do?",
+    "o_discutie_la_inceput_o_zi_pe_luna_pentr": "An initial conversation, one day per month for filming, and five minutes for the report. Everything else is handled by the na.digital team.",
+    "de_ce_minimum_3_luni_la_lunar": "Why is the monthly package a minimum of 3 months?",
+    "in_prima_luna_se_testeaza_formatele_orel": "The formats, posting times, and tone are tested in the first month. Measurable results appear after the audience begins to recognise the brand.",
+    "ce_ramane_la_mine_dupa_na_audit_daca_nu": "What do I keep after an NA Audit if we don’t continue?",
+    "planul_de_90_de_zile_ramane_al_clientulu": "The 90-day plan belongs to the client and can be implemented independently or with someone else.",
+    "am_deja_o_agentie_putem_lucra_impreuna": "I already have an agency. Can we work together?",
+    "da_na_digital_poate_prelua_partea_de_soc": "Yes. na.digital can take over the social media side and work alongside the existing agency, rather than replacing it.",
+    "lucrati_si_cu_firme_din_afara_bucurestiu": "Do you work with companies outside Bucharest?",
+    "da_strategia_si_textele_se_pot_realiza_d": "Yes. Strategy and copy can be developed from anywhere; filming arrangements are set according to location and project.",
+    "cum_functioneaza_pachetele_cu_artistii": "How do the artist packages work?",
+    "se_stabileste_impreuna_ce_proiect_este_s": "We decide together what the project is and where it will appear, then the artists are credited in the project and also feature on the na.digital account.",
+    "ce_primesc_gratis": "What do I get for free?",
+    "tot_continutul_publicat_pe_instagram_si": "All content published on Instagram and TikTok, the free checklist, and, if the project is selected, a publicly published mini-audit."
+  },
+  "hero": {
+    "unde_esti": "Where you are",
+    "na_digital": "na.digital",
+    "separator": "/",
+    "intrebari": "Questions",
+    "intrebari_inainte_sa_vorbim": "Questions before we talk",
+    "raspunsuri_scurte_la_ce_ne_intreaba_cei": "Short answers to what most people ask us. Click a question to see the answer."
+  },
+  "sections": {
+    "cum_incepem": {
+      "cum_incepem": "How we start",
+      "ce_trebuie_sa_fac_eu": "What do I need to do?",
+      "o_discutie_la_inceput_o_zi_pe_luna_pentr": "An initial conversation, one day per month for filming, and five minutes for the report. The rest is our responsibility.",
+      "de_ce_minimum_3_luni_la_lunar": "Why is the monthly package a minimum of 3 months?",
+      "in_prima_luna_testam_formate_ore_ton_rez": "In the first month, we test formats, posting times, and tone. Results that can be measured appear after the audience starts to recognise you. For less than 3 months, you pay more for getting started than for results.",
+      "ce_ramane_la_mine_dupa_na_audit_daca_nu": "What do I keep after NA Audit if we don’t continue?",
+      "planul_de_90_de_zile_e_al_tau_il_poti_ap": "The 90-day plan is yours. You can implement it yourself or with someone else."
+    },
+    "cum_lucram": {
+      "cum_lucram": "How we work",
+      "am_deja_o_agentie_putem_lucra_impreuna": "I already have an agency. Can we work together?",
+      "da_preluam_partea_de_social_media_si_luc": "Yes. We take over the social media side and work with your agency, rather than replacing it.",
+      "lucrati_si_cu_firme_din_afara_bucurestiu": "Do you work with companies outside Bucharest?",
+      "da_strategia_si_textele_merg_de_oriunde": "Yes. Strategy and copy can be developed from anywhere. Filming arrangements are agreed based on location and project."
+    },
+    "artisti_si_lucruri_gratis": {
+      "artisti_si_lucruri_gratis": "Artists and free resources",
+      "cum_functioneaza_pachetele_cu_artistii": "How do the artist packages work?",
+      "ne_spui_ce_vrei_sa_spui_si_unde_va_apare": "Tell us what you want to communicate and where it will appear. Together, we choose what the artists will create for you. Artists are credited in every project and also feature on the na account.",
+      "ce_primesc_gratis": "What do I get for free?",
+      "tot_ce_publicam_pe_instagram_si_tiktok": "Everything we publish on Instagram and TikTok, ",
+      "lista_gratuita": "the free checklist",
+      "si_daca_te_alegem_un_mini_audit_facut_pu": " and, if we select you, a publicly published mini-audit."
+    },
+    "ne_vedem_la_cafea": {
+      "ne_vedem_la_cafea": "Let’s meet for coffee.",
+      "vorbim_deschis_despre_ce_ai_nevoie_si_ca": "Let’s openly discuss what you need and what it costs. Seriously, the coffee is on us.",
+      "hai_la_cafea": "Let’s get coffee"
+    },
+    "contact_cta": {
+      "n_ai_gasit_ce_cautai": "Couldn’t find what you were looking for?",
+      "scrie_ne_si_iti_raspundem_in_cel_mult_2": "Write to us and we’ll reply within 2 working days.",
+      "hai_sa_vorbim": "Let’s talk"
+    }
+  }
+}

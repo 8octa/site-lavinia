@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "title": "Politica de cookies",
+    "description": "Informații despre cookie-uri și alte tehnologii similare utilizate pe site-ul na.digital."
+  },
+  "hero": {
+    "unde_esti": "Unde ești",
+    "na_digital": "na.digital",
+    "separator": "/",
+    "cookies": "Cookies",
+    "politica_de_cookies": "Politica de cookies",
+    "folosim_doar_ce_e_necesar_iar_pentru_res": "Folosim doar ce e necesar, iar pentru restul îți cerem acordul înainte."
+  },
+  "sections": {
+    "ce_sunt_cookies": {
+      "draft_de_verificat_juridic_inainte_de_pu": "Draft · de verificat juridic înainte de publicare",
+      "aici_afli_ce_cookies_foloseste_site_ul_n": "Aici afli ce cookies folosește site-ul na.digital și cum alegi ce accepți. Ultima actualizare: [DATA].",
+      "ce_sunt_cookies": "Ce sunt cookies",
+      "cookies_sunt_fisiere_mici_pe_care_un_sit": "Cookies sunt fișiere mici pe care un site le pune în browserul tău, ca să funcționeze sau ca să înțeleagă cum e folosit. Unele sunt necesare. Pentru celelalte îți cerem acordul înainte, cum cer Legea nr. 506/2004 privind prelucrarea datelor cu caracter personal și protecția vieții private în sectorul comunicațiilor electronice și RGPD.",
+      "ce_cookies_folosim": "Ce cookies folosim",
+      "categoria": "Categoria",
+      "la_ce_foloseste": "La ce folosește",
+      "exemple": "Exemple",
+      "cat_ramane": "Cât rămâne",
+      "iti_cerem_acordul": "Îți cerem acordul?",
+      "strict_necesare": "Strict necesare",
+      "ca_site_ul_sa_functioneze_si_sa_ti_tina": "ca site-ul să funcționeze și să-ți țină minte alegerea despre cookies",
+      "cookie_ul_de_consimtamant": "[COOKIE-UL DE CONSIMȚĂMÂNT]",
+      "durata": "[DURATA]",
+      "nu_fara_ele_site_ul_nu_merge": "Nu, fără ele site-ul nu merge",
+      "analiza": "Analiză",
+      "sa_vedem_cati_oameni_vin_si_ce_pagini_ci": "să vedem câți oameni vin și ce pagini citesc, ca să facem site-ul mai bun",
+      "instrumentul_de_analiza_daca_folositi": "[INSTRUMENTUL DE ANALIZĂ, DACĂ FOLOSIȚI]",
+      "da": "Da",
+      "continut_din_retele_sociale": "Conținut din rețele sociale",
+      "afisarea_postarilor_de_instagram_si_tikt": "afișarea postărilor de Instagram și TikTok în pagină",
+      "cookies_puse_de_meta_si_tiktok": "cookies puse de Meta și TikTok",
+      "stabilita_de_fiecare_platforma": "stabilită de fiecare platformă",
+      "completati_tabelul_dupa_ce_alegeti_platf": "[COMPLETAȚI TABELUL DUPĂ CE ALEGEȚI PLATFORMA ȘI INSTRUMENTELE. DACĂ NU FOLOSIȚI ANALIZĂ, ȘTERGEȚI RÂNDUL.]",
+      "cum_iti_dai_sau_iti_retragi_acordul": "Cum îți dai sau îți retragi acordul",
+      "la_prima_vizita_iti_aratam_un_banner_in": "La prima vizită îți arătăm un banner în care alegi ce accepți. Până nu alegi, încărcăm doar cookies strict necesare. Îți poți schimba alegerea oricând din [LINKUL „SETĂRI COOKIES” DIN FOOTER].",
+      "poti_sterge_sau_bloca_cookies_si_din_set": "Poți șterge sau bloca cookies și din setările browserului. Dacă le blochezi pe cele necesare, unele părți ale site-ului s-ar putea să nu meargă.",
+      "cookies_puse_de_altii": "Cookies puse de alții",
+      "cand_vezi_in_pagina_o_postare_de_instagr": "Când vezi în pagină o postare de Instagram sau TikTok, platforma poate pune propriile cookies, după regulile ei. Le găsești în politicile de confidențialitate ale Meta și TikTok.",
+      "intrebari": "Întrebări",
+      "ne_scrii_la_email_ce_facem_cu_datele_tal": "Ne scrii la [EMAIL]. Ce facem cu datele tale în general afli din ",
+      "politica_de_confidentialitate": "politica de confidențialitate",
+      "period": "."
+    }
+  }
+}

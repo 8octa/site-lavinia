@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "title": "Page not found",
+    "description": "The page you’re looking for doesn’t exist. Return to the na.digital homepage."
+  },
+  "hero": {
+    "pagina_nu_a_fost_gasita": "Page not found",
+    "linkul_este_vechi_sau_pagina_a_fost_muta": "The link is outdated or the page has moved.",
+    "revenire_la_pagina_principala": "Back to the homepage"
+  }
+}

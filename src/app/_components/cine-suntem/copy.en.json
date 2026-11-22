@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "title": "Who we are",
+    "description": "Meet the na.digital team, learn how we work with brands, and discover our approach to relevant, consistent content built for the feed."
+  },
+  "hero": {
+    "unde_esti": "You are here",
+    "na_digital": "na.digital",
+    "separator": "/",
+    "cine_suntem": "Who we are",
+    "doua_prietene_din_publicitate_care_dau_d": "Two friends from advertising sharing what they know. We brainstorm, write, film, and edit everything ourselves."
+  },
+  "sections": {
+    "lavinia": {
+      "desen_lavinia_par_blond_cu_o_cafea_si_un": "Illustration: Lavinia, blond hair, holding a coffee and a speech bubble",
+      "na": "na!",
+      "strategie": "strategy",
+      "lavinia": "Lavinia",
+      "strategul_echipei_vine_cu_intrebarile_pe": "The team's strategist. She asks the questions no one else has asked and turns them into a plan. She has eight years in advertising and has done almost everything: copy, design, WordPress websites, then strategy. She launches TikTok accounts from scratch, develops campaigns, writes pitches, and leads workshops for teams that want a real understanding of social media.",
+      "desen_bianca_par_mov_ochelari_cu_un_carn": "Illustration: Bianca, purple hair and glasses, holding a notebook with a fist raised",
+      "texte_si_continut": "copy and content",
+      "bianca": "Bianca",
+      "transforma_planul_in_realitate_in_cuvint": "She turns the plan into reality—in words, posts, and content that genuinely reaches people. She's a copywriter with five years of experience. At na, everything you read passes through her hands: descriptions, carousels, video scripts, and emails. When the camera starts rolling, she films and edits side by side with Lavinia. Alongside writing, she shapes strategy, keeps accounts on track, and spots trends early."
+    },
+    "ce_credem": {
+      "ce_credem": "What we believe",
+      "nativ_nu_adaptat": "Native, not adapted.",
+      "gandim_direct_pentru_feed_nu_traducem_in": "We create directly for the feed. We don't turn TV content into reels.",
+      "dam_inainte_sa_cerem": "We give before we ask.",
+      "ce_stim_publicam_gratis_daca_iti_foloses": "We share what we know for free. If it's useful, let's talk.",
+      "pe_intelesul_tuturor": "Easy for everyone to understand.",
+      "iti_explicam_ce_facem_fara_jargon_si_far": "We explain what we do without jargon or endless presentations.",
+      "oamenii_inaintea_formatelor": "People before formats.",
+      "un_cont_creste_cand_in_el_apar_oameni_nu": "An account grows when it features people, not just products."
+    },
+    "ne_vedem_la_cafea": {
+      "ne_vedem_la_cafea": "Let's meet for coffee.",
+      "vorbim_deschis_despre_ce_ai_nevoie_si_ca": "Let's talk openly about what you need and what it costs. Seriously, the coffee is on us.",
+      "hai_la_cafea": "Let's grab a coffee"
+    },
+    "na_story_and_artists": {
+      "na": "na",
+      "na_e_cea_mai_folosita_interjectie_romane": "\"Na\" is the most commonly used Romanian interjection. We believe it's in our DNA from birth. It came naturally between us whenever we finished a task: \"Na, we did it.\" \"Na, nice.\" \"Yeah, na.\" That is also how we work: we pass on what we know.",
+      "nu_suntem_doar_noi": "it's not just us",
+      "lucram_si_cu_artisti": "We also work with artists.",
+      "bianca_morgociu_picteaza_alex_jujan_lucr": "Bianca Morgociu paints, and Alex Jujan works in clay. We bring them into projects that need something handmade.",
+      "vezi_artistii": "See the artists"
+    }
+  }
+}

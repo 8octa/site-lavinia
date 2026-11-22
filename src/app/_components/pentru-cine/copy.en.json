@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "title": "Who we work with",
+    "description": "na.digital works with local businesses, restaurants, hotels, retailers, service providers, and brands that want to stay relevant on social media."
+  },
+  "hero": {
+    "unde_esti": "You are here",
+    "na_digital": "na.digital",
+    "separator": "/",
+    "pentru_cine": "Who it's for",
+    "cel_mai_des_lucram_cu": "We most often work with:",
+    "marketing_manageri": "marketing managers",
+    "antreprenori": "entrepreneurs"
+  },
+  "sections": {
+    "ai_agentie_dar_conturile_arata_ca_reclam": {
+      "marketing_manager": "marketing manager",
+      "ai_agentie_dar_conturile_arata_ca_reclam": "You have an agency, but your accounts look like TV commercials.",
+      "echipa_ta_n_are_timp_sa_filmeze_si_sa_sc": "Your team doesn't have time to shoot and write every week.",
+      "ai_nevoie_de_continut_luna_de_luna_nu_do": "You need content every month, not just campaigns.",
+      "vrei_pe_cineva_care_stie_cum_se_vorbeste": "You want someone who knows how to speak on Instagram and TikTok.",
+      "incepe_cu_na_social_media_lunar": "Start with NA Social Media Monthly",
+      "antreprenor": "entrepreneur",
+      "ai_o_afacere_buna_si_un_cont_care_nu_spu": "You have a great business but an account that doesn't show it.",
+      "postezi_cand_ai_timp_adica_rar": "You post whenever you have time—which isn't often.",
+      "nu_stii_ce_sa_postezi_ca_sa_vina_clienti": "You don't know what to post to bring in customers.",
+      "vrei_sa_intelegi_pe_ce_dai_banii_inainte": "You want to know what you're paying for before you pay.",
+      "incepe_cu_na_audit": "Start with NA Audit",
+      "nu_stii_in_care_te_incadrezi": "Not sure which one fits you? ",
+      "scrie_ne": "Write to us",
+      "si_ne_lamurim_impreuna": " and we'll figure it out together."
+    },
+    "cateva_exemple": {
+      "cateva_exemple": "A few examples",
+      "oameni_si_branduri_cu_care_am_lucrat": "People and brands we've worked with.",
+      "logo_sau_poza": "[LOGO OR PHOTO]",
+      "antreprenor": "entrepreneur",
+      "alexi_brows": "Alexi Brows",
+      "un_brand_de_sprancene_din_targoviste_de": "A brow brand from Târgoviște, built from scratch.",
+      "vezi_exemplul": "See the example",
+      "ong": "NGO",
+      "pro_patrimonio": "Pro Patrimonio",
+      "concerte_pe_siret_comunicare_pe_patru_ca": "Concerte pe Siret: communication across four channels.",
+      "trupa_metalcore": "band · metalcore",
+      "static_collapse": "Static Collapse",
+      "ce_am_facut_intr_un_rand": "[WHAT WE DID, IN A NUTSHELL]",
+      "atelier_de_mobila": "furniture workshop",
+      "como_atelier": "Como Atelier"
+    },
+    "ce_poti_astepta_de_la_noi": {
+      "ce_poti_astepta_de_la_noi": "What you can expect from us",
+      "oameni_adevarati": "Real people.",
+      "crestem_conturi_cu_oameni_care_chiar_vor": " We grow accounts with people who genuinely want to follow you.",
+      "rabdare": "Patience.",
+      "un_cont_bun_se_construieste_in_luni_iar": " A strong account is built over months, and we stay with you along the way.",
+      "continut_nu_prezentari": "Content, not presentations.",
+      "raportul_tine_5_minute_restul_timpului_i": " The report takes 5 minutes; the rest of our time goes into what appears in the feed.",
+      "si_daca": "And if...",
+      "ai_un_ong_sau_un_proiect_cultural": "Do you have an NGO or a cultural project?",
+      "lucram_si_cu_tine": " We can work with you too.",
+      "vezi_pro_patrimonio": "See Pro Patrimonio",
+      "ai_nevoie_doar_de_ceva_facut_de_mana": "Just need something handmade?",
+      "lucram_cu_artisti": " We work with artists.",
+      "vezi_artistii": "See the artists",
+      "vrei_sa_incerci_intai_singur": "Want to try it on your own first?",
+      "avem_o_lista_pentru_asta": " We have a checklist for that.",
+      "vreau_lista_gratuita": "I want the free checklist"
+    },
+    "ne_vedem_la_cafea": {
+      "ne_vedem_la_cafea": "Let's meet for coffee.",
+      "vorbim_deschis_despre_ce_ai_nevoie_si_ca": "Let's talk openly about what you need and what it costs. Seriously, the coffee is on us.",
+      "hai_la_cafea": "Let's grab a coffee"
+    }
+  }
+}

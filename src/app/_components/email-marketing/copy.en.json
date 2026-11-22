@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "title": "Email marketing and automations",
+    "description": "Newsletter strategy, list growth, welcome emails and automations built for relationships, retention and conversion."
+  },
+  "hero": {
+    "unde_esti": "Where you are",
+    "na_digital": "na.digital",
+    "separator": "/",
+    "ce_facem": "What we do",
+    "na_email_marketing": "NA Email Marketing",
+    "pe_langa_lunar": "in addition to monthly service",
+    "email_marketing_automatizari_si_campanii": "Email marketing, automations and campaigns",
+    "emailul_e_cea_mai_directa_conversatie_cu": "Email is the most direct conversation with your audience, and we know how to make it work. We create launches that feel like events and mark the moments that matter.",
+    "hai_sa_vorbim": "Let’s talk",
+    "intrebari": "Questions"
+  },
+  "sections": {
+    "ce_primesti": {
+      "ce_primesti": "What you get",
+      "strategia": "Strategy",
+      "stabilim_cui_ii_scrii_ce_primeste_din_fi": "We decide who you write to, what each email delivers and how often, so you reach the inbox—not spam.",
+      "emailurile_automate": "Automated emails",
+      "bun_venit_dupa_prima_comanda_revenire_du": "Welcome emails, post-purchase emails and re-engagement after a pause. We write them once and they work on their own.",
+      "lansarile_si_momentele": "Launches and key moments",
+      "produse_noi_oferte_aniversari_sarbatori": "New products, offers, anniversaries and holidays. Written, laid out and tested before they go out.",
+      "cresterea_listei": "List growth",
+      "formulare_motive_bune_de_abonare_si_drum": "Forms, compelling reasons to subscribe and the journey from the feed to the inbox."
+    },
+    "de_ce_email_in_cifre": {
+      "de_ce_email_in_cifre": "Why email, in numbers",
+      "number_3_5": "3,5%",
+      "dintre_urmaritori_vad_in_medie_o_postare": "of followers see an average Instagram post. An email goes to the entire list.",
+      "sursa_socialinsider_2025": "Source: Socialinsider, 2025",
+      "number_30": "30%",
+      "din_veniturile_din_email_vin_din_emailur": "of email revenue comes from automated emails, even though they make up only 2% of sends.",
+      "sursa_omnisend_raportul_2026": "Source: Omnisend, report 2026",
+      "number_1_din_6": "1 in 6",
+      "emailuri_de_marketing_nu_ajunge_in_inbox": "marketing emails do not reach the inbox. They end up in spam or get blocked. That is why strategy matters.",
+      "sursa_litmus": "Source: Litmus",
+      "number_36_la_1": "36 to 1",
+      "e_randamentul_mediu_raportat_pentru_emai": "is the average reported return on email: 36 dollars for every dollar invested."
+    },
+    "pentru_cine_e": {
+      "pentru_cine_e": "Who it’s for",
+      "brandurile_care_au_deja_clienti_si_vor_s": "Brands that already have customers and want to bring them back.",
+      "magazinele_online_care_vor_vanzari_si_di": "Online stores that want sales beyond paid advertising.",
+      "cei_care_vor_un_canal_care_nu_depinde_de": "Businesses that want a channel that doesn’t depend on an algorithm.",
+      "clientii_na_social_media_lunar_care_vor": "NA Social Media Lunar clients who want to move people from the feed to the inbox."
+    },
+    "cum_decurge": {
+      "cum_decurge": "How it works",
+      "ne_uitam_la_ce_nevoi_ai": "We assess what you need",
+      "ce_vinzi_cui_si_ce_vrei_sa_obtii_din_ema": "What you sell, who you sell to and what you want to achieve with email. Plus what you already have.",
+      "facem_planul": "We build the plan",
+      "ce_automatizari_merita_ce_campanii_vin_s": "Which automations make sense, which campaigns are coming and how the list grows.",
+      "scriem_si_aprobam": "We write and get approval",
+      "textele_designul_si_automatizarile_nimic": "The copy, design and automations. Nothing goes out without your approval.",
+      "trimitem_si_masuram": "We send and measure",
+      "deschideri_clicuri_abonati_noi_ce_merge": "Open rates, clicks and new subscribers. We keep what works and change what doesn’t."
+    },
+    "intrebari": {
+      "intrebari": "Questions",
+      "de_ce_email_daca_am_deja_social_media": "Why email if I already use social media?",
+      "pentru_ca_lista_e_a_ta_si_emailul_pleaca": "Because the list is yours, and email goes to everyone on it without an algorithm deciding who sees it. And nobody can take it from you.",
+      "pot_incepe_fara_lista": "Can I start without a list?",
+      "da_incepem_cu_cresterea_listei_si_cu_ema": "Yes. We start by growing the list and creating the welcome email, then add the rest as subscribers join."
+    },
+    "celelalte_servicii": {
+      "celelalte_servicii": "Other services",
+      "na_social_media_lunar": "NA Social Media Lunar",
+      "conturile_tale_de_social_media_luna_de_l": "Your social media accounts, month by month: strategy, 10–12 posts, one filming day and a five-minute report.",
+      "na_content_creation": "NA Content Creation",
+      "filmam_editam_facem_continut_adevarat_cl": "We film and edit real content: clips and photos designed for mobile and ready to post.",
+      "na_audit": "NA Audit",
+      "tot_ce_ai_online_radiografiat_plan_de_90": "Everything you have online, reviewed. A 90-day plan on one page, in 10 days.",
+      "na_tiktok_start": "NA TikTok Start",
+      "cont_setat_directie_creativa_primele_8_c": "Account setup, creative direction, the first 8 clips and a playbook for your team.",
+      "na_facut_de_mana": "NA Făcut de mână",
+      "pachete_personalizate_cu_artistii_nostri": "Custom packages with our artists: painting, clay and whatever else your brand needs."
+    },
+    "ne_vedem_la_cafea": {
+      "ne_vedem_la_cafea": "Let’s meet for coffee.",
+      "vorbim_deschis_despre_ce_ai_nevoie_si_ca": "We’ll talk openly about what you need and what it costs. And yes, the coffee is on us.",
+      "hai_la_cafea": "Let’s have coffee"
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "order": [
+    "pentru-cine",
+    "ce-facem",
+    "artisti",
+    "ce-am-facut",
+    "gratis",
+    "cine-suntem",
+    "intrebari",
+    "contact"
+  ],
+  "stories": {
+    "pentru-cine": {
+      "name": "Pentru cine",
+      "bg": "#FFFFFF",
+      "fg": "#1E120C",
+      "cta": "Vezi în care te recunoști",
+      "slides": [
+        ["Lucrăm cu două feluri de oameni.", "Vezi în care te recunoști."],
+        [
+          "Marketing manageri.",
+          "Ai deja agenție, dar conturile arată ca reclamele de la TV."
+        ],
+        ["Antreprenori.", "Ai o afacere bună și un cont care nu spune asta."]
+      ]
+    },
+    "ce-facem": {
+      "name": "Ce facem",
+      "bg": "#E8B03A",
+      "fg": "#1E120C",
+      "cta": "Vezi tot meniul",
+      "slides": [
+        [
+          "Un serviciu principal.",
+          "NA Social Media Lunar: conturile tale, lună de lună."
+        ],
+        [
+          "10-12 postări pe lună.",
+          "Dintre ele, 6-8 video. Filmate într-o singură zi."
+        ],
+        [
+          "Și altele, pe măsură.",
+          "Content Creation, Audit, TikTok Start, Email Marketing, Făcut de mână."
+        ]
+      ]
+    },
+    "artisti": {
+      "name": "Artiști",
+      "bg": "#FBE29A",
+      "fg": "#1E120C",
+      "cta": "Vezi artiștii",
+      "slides": [
+        [
+          "Făcut de mână, nu generat.",
+          "Lucrăm cu artiști în care credem și pe care îi promovăm."
+        ],
+        ["Bianca Morgociu și Alex Jujan.", "Pictură și lut, pentru branduri."],
+        [
+          "Pachete pe măsura brandului tău.",
+          "Campanii, lansări, cadouri unicat."
+        ]
+      ]
+    },
+    "ce-am-facut": {
+      "name": "Ce-am făcut",
+      "bg": "#E2432B",
+      "fg": "#1E120C",
+      "cta": "Vezi poveștile",
+      "slides": [
+        ["Alexi Brows.", "Un brand de sprâncene, de la zero."],
+        ["Pro Patrimonio.", "Concerte pe Siret, ediția a VI-a."],
+        ["Primul nostru client suntem noi.", "Contul na, construit în public."]
+      ]
+    },
+    "gratis": {
+      "name": "Gratis",
+      "bg": "#8CC8EA",
+      "fg": "#1E120C",
+      "cta": "Vreau lista",
+      "slides": [
+        ["Na, ia de aici.", "Ce știm, dăm gratis."],
+        [
+          "40 de întrebări, 8 capitole.",
+          "Îți verifici singur contul într-o pauză."
+        ],
+        ["E lista pe care o folosim la NA Audit.", "Acum e a ta."]
+      ]
+    },
+    "cine-suntem": {
+      "name": "Cine suntem",
+      "bg": "#C3A6F2",
+      "fg": "#1E120C",
+      "cta": "Cunoaște-ne",
+      "slides": [
+        ["Două prietene din publicitate.", "Care dau din ce știu."],
+        [
+          "Lavinia.",
+          "Vine cu întrebările pe care nu ți le-a pus nimeni și cu planul."
+        ],
+        ["Bianca.", "Transformă planul în cuvinte, postări și conținut."]
+      ]
+    },
+    "intrebari": {
+      "name": "Întrebări",
+      "bg": "#F3EADB",
+      "fg": "#1E120C",
+      "cta": "Toate întrebările",
+      "slides": [
+        [
+          "Ce trebuie să fac eu?",
+          "O discuție la început, o zi pe lună pentru filmare și cinci minute pentru raport."
+        ],
+        ["Am deja o agenție.", "Lucrăm cu ea, nu în locul ei."]
+      ]
+    },
+    "contact": {
+      "name": "Contact",
+      "bg": "#1E120C",
+      "fg": "#FBF5EB",
+      "cta": "Hai să vorbim",
+      "slides": [
+        ["Prețul îl vorbim deschis.", "Ca între oameni."],
+        ["Alegi o zi sau ne scrii.", "Restul îl stabilim împreună."]
+      ]
+    }
+  }
+}

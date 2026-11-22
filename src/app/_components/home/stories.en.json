@@ -1,0 +1,127 @@
+{
+  "order": [
+    "pentru-cine",
+    "ce-facem",
+    "artisti",
+    "ce-am-facut",
+    "gratis",
+    "cine-suntem",
+    "intrebari",
+    "contact"
+  ],
+  "stories": {
+    "pentru-cine": {
+      "name": "Who it's for",
+      "bg": "#FFFFFF",
+      "fg": "#1E120C",
+      "cta": "See which one you recognize",
+      "slides": [
+        ["We work with two kinds of people.", "See which one you recognize."],
+        [
+          "Marketing managers.",
+          "You already have an agency, but your accounts look like TV commercials."
+        ],
+        ["Entrepreneurs.", "You have a good business and an account that doesn't show it."]
+      ]
+    },
+    "ce-facem": {
+      "name": "What we do",
+      "bg": "#E8B03A",
+      "fg": "#1E120C",
+      "cta": "See the full menu",
+      "slides": [
+        [
+          "Our main service.",
+          "NA Social Media Monthly: your accounts, month after month."
+        ],
+        [
+          "10–12 posts per month.",
+          "Of these, 6–8 videos. Filmed in a single day."
+        ],
+        [
+          "And more, tailored to you.",
+          "Content Creation, Audit, TikTok Start, Email Marketing, Handmade."
+        ]
+      ]
+    },
+    "artisti": {
+      "name": "Artists",
+      "bg": "#FBE29A",
+      "fg": "#1E120C",
+      "cta": "Meet the artists",
+      "slides": [
+        [
+          "Made by hand, not generated.",
+          "We work with artists we believe in and promote."
+        ],
+        ["Bianca Morgociu and Alex Jujan.", "Painting and clay for brands."],
+        [
+          "Packages tailored to your brand.",
+          "Campaigns, launches, and one-of-a-kind gifts."
+        ]
+      ]
+    },
+    "ce-am-facut": {
+      "name": "What we've done",
+      "bg": "#E2432B",
+      "fg": "#1E120C",
+      "cta": "See the stories",
+      "slides": [
+        ["Alexi Brows.", "An eyebrow brand, built from scratch."],
+        ["Pro Patrimonio.", "Siret concerts, sixth edition."],
+        ["We are our first client.", "The na account, built in public."]
+      ]
+    },
+    "gratis": {
+      "name": "Free",
+      "bg": "#8CC8EA",
+      "fg": "#1E120C",
+      "cta": "I want the list",
+      "slides": [
+        ["Na, take it.", "We're giving away what we know for free."],
+        [
+          "40 questions, 8 chapters.",
+          "Audit your own account during a break."
+        ],
+        ["It's the list we use for an NA Audit.", "Now it's yours."]
+      ]
+    },
+    "cine-suntem": {
+      "name": "Who we are",
+      "bg": "#C3A6F2",
+      "fg": "#1E120C",
+      "cta": "Get to know us",
+      "slides": [
+        ["Two friends from advertising.", "Passing on what we know."],
+        [
+          "Lavinia.",
+          "She brings the questions no one has asked you and the plan."
+        ],
+        ["Bianca.", "She turns the plan into words, posts, and content."]
+      ]
+    },
+    "intrebari": {
+      "name": "Questions",
+      "bg": "#F3EADB",
+      "fg": "#1E120C",
+      "cta": "All questions",
+      "slides": [
+        [
+          "What do I need to do?",
+          "One initial conversation, one day per month for filming, and five minutes for the report."
+        ],
+        ["I already have an agency.", "We work with it, not instead of it."]
+      ]
+    },
+    "contact": {
+      "name": "Contact",
+      "bg": "#1E120C",
+      "fg": "#FBF5EB",
+      "cta": "Let's talk",
+      "slides": [
+        ["We talk openly about price.", "Like people do."],
+        ["Choose a day or send us a message.", "We'll figure out the rest together."]
+      ]
+    }
+  }
+}

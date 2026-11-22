@@ -1,0 +1,144 @@
+{
+  "types": {
+    "sfat": ["Sfatul zilei", "#E8B03A"],
+    "adevar": ["Adevărul zilei", "#8CC8EA"],
+    "provocare": ["Provocarea zilei", "#C3A6F2"],
+    "gest": ["Na, ia de aici", "#E2432B"]
+  },
+  "items": [
+    [
+      "🎬",
+      "sfat",
+      "Începe clipul cu partea cea mai bună, nu cu logo-ul. Primele 2 secunde decid tot."
+    ],
+    [
+      "📌",
+      "sfat",
+      "Fixează sus postarea care explică cel mai bine ce faci. Azi, nu luni."
+    ],
+    [
+      "💬",
+      "sfat",
+      "Răspunde azi la toate comentariile. Da, și la cel cu un singur emoji."
+    ],
+    [
+      "🔤",
+      "sfat",
+      "Pune subtitrări. Mulți se uită fără sunet, în tramvai sau în ședință."
+    ],
+    [
+      "📱",
+      "sfat",
+      "Filmează vertical. Mereu. Chiar și când pare că nu contează."
+    ],
+    [
+      "🧭",
+      "sfat",
+      "Citește-ți bio-ul ca un străin. Înțelegi în 3 secunde ce faci?"
+    ],
+    ["🔁", "sfat", "Ai o postare care a mers? Mai fă-o o dată, altfel."],
+    [
+      "🗓️",
+      "sfat",
+      "Scrie azi trei idei de postări pentru săptămâna viitoare. Doar trei."
+    ],
+    [
+      "💾",
+      "sfat",
+      "Uită-te la salvări, nu la like-uri. O salvare înseamnă „mai vreau”."
+    ],
+    [
+      "👀",
+      "sfat",
+      "Arată cum se face, nu doar rezultatul. Procesul e conținut."
+    ],
+    ["🫠", "adevar", "Cel mai bun moment să postezi e când ai ceva de spus."],
+    ["🎯", "adevar", "„Să devină viral” nu e un obiectiv. E o rugăciune."],
+    [
+      "🧃",
+      "adevar",
+      "Un afiș pus pe Instagram rămâne tot un afiș. Doar mai mic."
+    ],
+    ["📊", "adevar", "Un raport bun se citește în 5 minute. Restul e decor."],
+    [
+      "🚶",
+      "adevar",
+      "Cele mai bune idei apar la o plimbare, nu la al treilea brainstorm."
+    ],
+    ["🦄", "adevar", "Trendul de azi expiră mâine. O idee bună, nu."],
+    [
+      "🧱",
+      "adevar",
+      "Algoritmul nu urăște pe nimeni. Doar se plictisește repede."
+    ],
+    ["🎤", "adevar", "Dacă n-ai spune-o cu voce tare, n-o posta."],
+    [
+      "⏱️",
+      "provocare",
+      "Filmează azi un clip de 7 secunde. Fără logo, fără muzică de stoc."
+    ],
+    ["🙋", "provocare", "Arată-ți fața în story azi. O singură dată ajunge."],
+    [
+      "✍️",
+      "provocare",
+      "Rescrie prima frază din ultima ta postare. Mai scurt."
+    ],
+    [
+      "📸",
+      "provocare",
+      "Fă o poză la ceva de la tine din birou pe care nu l-ai arătat niciodată."
+    ],
+    [
+      "🤝",
+      "provocare",
+      "Comentează azi la 5 conturi din zona ta. Sincer, nu doar „super!”."
+    ],
+    [
+      "🔕",
+      "provocare",
+      "O oră fără scroll. Apoi vezi ce ți-a lipsit cu adevărat."
+    ],
+    [
+      "🎁",
+      "gest",
+      "Lista gratuită pe care o folosim la NA Audit e a ta. Ia-o.",
+      "#gratis",
+      "Vreau lista gratuită"
+    ],
+    [
+      "🍀",
+      "gest",
+      "Azi ai noroc. Scrie-ne pentru un mini-audit public și poate te alegem pe tine.",
+      "#contact",
+      "Hai să vorbim"
+    ],
+    [
+      "💌",
+      "gest",
+      "Cineva are nevoie azi de un compliment pentru feed-ul lui. Fă-i-l tu."
+    ],
+    ["🌱", "gest", "Un cont mic nu e un cont slab. E un început."],
+    ["🧡", "gest", "Mulțumește azi unui client. În public."],
+    [
+      "✨",
+      "gest",
+      "Dacă ai ajuns până aici, ești genul nostru de om.",
+      "#contact",
+      "Hai să vorbim"
+    ]
+  ],
+  "months": [
+    "ianuarie",
+    "februarie",
+    "martie",
+    "aprilie",
+    "mai",
+    "iunie",
+    "iulie",
+    "august",
+    "septembrie",
+    "octombrie",
+    "noiembrie",
+    "decembrie"
+  ]
+}

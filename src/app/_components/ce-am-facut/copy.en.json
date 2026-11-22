@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "title": "Projects and case studies",
+    "description": "Explore na.digital projects: social media strategies, campaigns, video content, brand creativity, and artist activations."
+  },
+  "hero": {
+    "unde_esti": "You are here",
+    "na_digital": "na.digital",
+    "separator": "/",
+    "ce_am_facut": "What we've done",
+    "povesti_la_care_tinem": "Stories we care about",
+    "de_unde_am_pornit_ce_am_facut_impreuna_s": "Where we started, what we did together, and what came of it."
+  },
+  "sections": {
+    "alexi_brows": {
+      "vizual_principal": "[MAIN VISUAL]",
+      "pagina_din_guidelines": "[PAGE FROM BRAND GUIDELINES]",
+      "postare_luna_1": "[MONTH 1 POST]",
+      "antreprenor_beauty_targoviste": "entrepreneur · beauty · Târgoviște",
+      "alexi_brows": "Alexi Brows",
+      "un_brand_de_sprancene_de_la_zero": "A brow brand, built from scratch.",
+      "contextul": "The context",
+      "alexia_isi_lansa_brandul_personal_alexi": "Alexia was launching her personal brand, Alexi Brows. She needed an identity and a plan for its first month on social media.",
+      "ce_am_facut": "What we did",
+      "audit_de_brand_brand_guidelines_arhetipu": "Brand audit. Brand guidelines: archetypes, palette, typography, and voice. First-month calendar. Copy for Instagram and TikTok.",
+      "ce_a_iesit": "What came out of it",
+      "rezultatele_cu_cifre": "[RESULTS WITH NUMBERS]",
+      "o_fraza_de_la_alexia": "\"[A QUOTE FROM ALEXIA]\"",
+      "alexia_alexi_brows": "Alexia, Alexi Brows",
+      "publicat_cu_acordul_clientei": "Published with the client's consent.",
+      "postare_din_campanie": "[CAMPAIGN POST]",
+      "newsletter": "[NEWSLETTER]",
+      "recap": "[RECAP]",
+      "ong_patrimoniu_retainer": "NGO · heritage · retainer",
+      "pro_patrimonio": "Pro Patrimonio",
+      "concerte_pe_siret_editia_a_vi_a": "Concerte pe Siret, 6th edition.",
+      "concerte_in_patru_conace_din_judetul_bot": "Concerts in four manor houses in Botoșani County, August 14–23, 2026, organized by Pro Patrimonio and the Maria Association. Beyond the festival, we handle the foundation's communications month by month.",
+      "conceptul_creativ_mosteniri_la_liman_str": "Creative concept: \"Moșteniri la Liman\". Strategy for Instagram, Facebook, TikTok, and LinkedIn. Editorial calendar, blog articles, and a dedicated newsletter. Post-festival recap: carousel, long post, and day-by-day chronicle.",
+      "o_fraza_de_la_pro_patrimonio": "\"[A QUOTE FROM PRO PATRIMONIO]\"",
+      "nume_rol_pro_patrimonio": "[NAME, ROLE], Pro Patrimonio",
+      "publicat_cu_acordul_clientului": "Published with the client's consent.",
+      "exemplu_1": "[EXAMPLE 1]",
+      "exemplu_2": "[EXAMPLE 2]",
+      "exemplu_3": "[EXAMPLE 3]",
+      "trupa_metalcore": "band · metalcore",
+      "static_collapse": "Static Collapse",
+      "ce_am_facut_intr_un_rand": "[WHAT WE DID, IN A NUTSHELL]",
+      "contextul_de_unde_am_pornit": "[CONTEXT: WHERE WE STARTED]",
+      "ce_am_facut_2": "[WHAT WE DID]",
+      "o_fraza_de_la_client": "\"[A QUOTE FROM THE CLIENT]\"",
+      "nume_static_collapse": "[NAME], Static Collapse",
+      "publicat_cu_acordul_trupei": "Published with the band's consent.",
+      "atelier_de_mobila": "furniture workshop",
+      "como_atelier": "Como Atelier",
+      "nume_rol_como_atelier": "[NAME, ROLE], Como Atelier",
+      "domeniu": "[INDUSTRY]",
+      "imprimax_solutions": "Imprimax Solutions",
+      "nume_rol_imprimax_solutions": "[NAME, ROLE], Imprimax Solutions"
+    },
+    "urmeaza": {
+      "urmeaza": "Next",
+      "in_lucru": "in progress",
+      "primul_nostru_client_suntem_noi": "Our first client is ourselves.",
+      "contul_na_porneste_de_la_zero_publicam_c": "The na account is starting from zero. We share the numbers as we go, including the process.",
+      "ziua_1_din_90": "Day 1 of 90",
+      "ziua_1": "day 1",
+      "ziua_30": "day 30",
+      "ziua_60": "day 60",
+      "ziua_90": "day 90",
+      "na_audit_public": "na, public audit",
+      "vrei_un_mini_audit_gratuit_facut_public": "Want a free mini-audit done publicly?",
+      "alegem_cate_un_cont_si_il_analizam_pe_co": "We select accounts and analyze them on our own account, with your consent.",
+      "hai_sa_vorbim": "Let's talk"
+    },
+    "ne_vedem_la_cafea": {
+      "ne_vedem_la_cafea": "Let's meet for coffee.",
+      "vorbim_deschis_despre_ce_ai_nevoie_si_ca": "Let's talk openly about what you need and what it costs. Seriously, the coffee is on us.",
+      "hai_la_cafea": "Let's grab a coffee"
+    }
+  }
+}

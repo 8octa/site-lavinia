@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "title": "Cine suntem",
+    "description": "Descoperă echipa na.digital, cum lucrăm cu brandurile și filosofia noastră pentru conținut relevant, consecvent și construit pentru feed."
+  },
+  "hero": {
+    "unde_esti": "Unde ești",
+    "na_digital": "na.digital",
+    "separator": "/",
+    "cine_suntem": "Cine suntem",
+    "doua_prietene_din_publicitate_care_dau_d": "Două prietene din publicitate care dau din ce știu. Gândim, scriem, filmăm și montăm tot noi."
+  },
+  "sections": {
+    "lavinia": {
+      "desen_lavinia_par_blond_cu_o_cafea_si_un": "Desen: Lavinia, păr blond, cu o cafea și un balon de vorbă",
+      "na": "na!",
+      "strategie": "strategie",
+      "lavinia": "Lavinia",
+      "strategul_echipei_vine_cu_intrebarile_pe": "Strategul echipei. Vine cu întrebările pe care nu ți le-a pus nimeni și cu planul care iese din ele. Are opt ani de publicitate și a trecut prin aproape tot: copy, design, site-uri pe WordPress, apoi strategie. Pornește conturi de TikTok de la zero, gândește campanii, scrie pitch-uri și ține workshopuri pentru echipele care vor să înțeleagă social media pe bune.",
+      "desen_bianca_par_mov_ochelari_cu_un_carn": "Desen: Bianca, păr mov, ochelari, cu un carnețel și pumnul ridicat",
+      "texte_si_continut": "texte și conținut",
+      "bianca": "Bianca",
+      "transforma_planul_in_realitate_in_cuvint": "Transformă planul în realitate: în cuvinte, în postări, în conținut care chiar ajunge la oameni. E copywriter, cu cinci ani de scris în spate. La na, tot ce citești trece prin mâna ei: descrieri, carusele, scripturi pentru clipuri, emailuri. Iar când pornește camera, filmează și montează cot la cot cu Lavinia. Pe lângă scris, face strategie, ține conturile în frâu și prinde trendurile din timp."
+    },
+    "ce_credem": {
+      "ce_credem": "Ce credem",
+      "nativ_nu_adaptat": "Nativ, nu adaptat.",
+      "gandim_direct_pentru_feed_nu_traducem_in": "Gândim direct pentru feed. Nu traducem în reels ce a fost făcut pentru TV.",
+      "dam_inainte_sa_cerem": "Dăm înainte să cerem.",
+      "ce_stim_publicam_gratis_daca_iti_foloses": "Ce știm, publicăm gratis. Dacă îți folosește, vorbim.",
+      "pe_intelesul_tuturor": "Pe înțelesul tuturor.",
+      "iti_explicam_ce_facem_fara_jargon_si_far": "Îți explicăm ce facem fără jargon și fără prezentări lungi.",
+      "oamenii_inaintea_formatelor": "Oamenii înaintea formatelor.",
+      "un_cont_creste_cand_in_el_apar_oameni_nu": "Un cont crește când în el apar oameni, nu doar produse."
+    },
+    "ne_vedem_la_cafea": {
+      "ne_vedem_la_cafea": "Ne vedem la cafea.",
+      "vorbim_deschis_despre_ce_ai_nevoie_si_ca": "Vorbim deschis despre ce ai nevoie și cât costă. Pe bune, cafeaua e de la noi.",
+      "hai_la_cafea": "Hai la cafea"
+    },
+    "na_story_and_artists": {
+      "na": "na",
+      "na_e_cea_mai_folosita_interjectie_romane": "„Na” e cea mai folosită interjecție românească. Credem că o avem în ADN de la naștere. Între noi a venit de la sine, la fiecare task terminat: „Na, am făcut.” „Na, bine.” „Da, na.” De aici și felul în care lucrăm: ce știm, dăm mai departe.",
+      "nu_suntem_doar_noi": "nu suntem doar noi",
+      "lucram_si_cu_artisti": "Lucrăm și cu artiști.",
+      "bianca_morgociu_picteaza_alex_jujan_lucr": "Bianca Morgociu pictează, Alex Jujan lucrează în lut. Îi aducem în proiectele care au nevoie de ceva făcut de mână.",
+      "vezi_artistii": "Vezi artiștii"
+    }
+  }
+}

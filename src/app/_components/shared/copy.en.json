@@ -1,0 +1,74 @@
+{
+  "header": {
+    "tema_va_reveni_la_light_la_urmatoarea_vizita": "The theme will return to Light at your next visit.",
+    "tema_nu_a_putut_fi_salvata_pentru_urmatoarea_vizita": "The theme could not be saved for your next visit.",
+    "na_digital": "na.digital",
+    "inchide": "Close",
+    "meniu": "Menu",
+    "navigare_principala": "Main navigation",
+    "pentru_cine": "Who it’s for",
+    "ce_facem": "What we do",
+    "ce_am_facut": "What we’ve done",
+    "artisti": "Artists",
+    "cine_suntem": "Who we are",
+    "tema": "Theme",
+    "alege_tema": "Choose a theme",
+    "limba": "Language",
+    "alege_limba": "Choose a language",
+    "language_options": [
+      {
+        "name": "ro",
+        "label": "Romanian"
+      },
+      {
+        "name": "en",
+        "label": "English"
+      }
+    ],
+    "language_save_error": "The language preference could not be saved.",
+    "hai_sa_vorbim": "Let’s talk",
+    "theme_options": [
+      {
+        "name": "light",
+        "label": "Light"
+      },
+      {
+        "name": "dark",
+        "label": "Dark"
+      },
+      {
+        "name": "na",
+        "label": "na.digital"
+      }
+    ]
+  },
+  "footer": {
+    "na_digital": "na.digital",
+    "born_and_raised_in_the_feed": "Born and raised in the feed.",
+    "studio_de_social_media_din_bucuresti": "Social media studio in Bucharest.",
+    "contact_si_canal_social": "Contact and social channel",
+    "pagini": "Pages",
+    "pentru_cine": "Who it’s for",
+    "ce_facem": "What we do",
+    "ce_am_facut": "What we’ve done",
+    "artisti": "Artists",
+    "cine_suntem": "Who we are",
+    "lista_gratuita": "Free checklist",
+    "intrebari": "Questions",
+    "contact": "Contact",
+    "servicii": "Services",
+    "na_social_media_lunar": "NA Social Media Monthly",
+    "na_content_creation": "NA Content Creation",
+    "na_audit": "NA Audit",
+    "na_tiktok_start": "NA TikTok Start",
+    "na_email_marketing": "NA Email Marketing",
+    "na_facut_de_mana": "NA Made by Hand",
+    "legal": "Legal",
+    "politica_de_confidentialitate": "Privacy policy",
+    "politica_de_cookies": "Cookie policy",
+    "number_2026_na_digital": "© 2026 na.digital"
+  },
+  "contact_form": {
+    "formularul_nu_e_conectat_inca_pe_site_ul_live_mesaju": "The form is not connected yet. On the live website, the message goes straight to us."
+  }
+}

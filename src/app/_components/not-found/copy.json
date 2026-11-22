@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "title": "Pagina nu a fost găsită",
+    "description": "Pagina căutată nu există. Revenim la pagina principală na.digital."
+  },
+  "hero": {
+    "pagina_nu_a_fost_gasita": "Pagina nu a fost găsită",
+    "linkul_este_vechi_sau_pagina_a_fost_muta": "Linkul este vechi sau pagina a fost mutată.",
+    "revenire_la_pagina_principala": "Revenire la pagina principală"
+  }
+}

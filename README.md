@@ -5,9 +5,10 @@ the Next.js App Router. Each page has its own route and page component under
 `src/app`; shared navigation, footer, styling, GSAP animation, and browser
 interactions use React components.
 
-Each route folder contains a `page.jsx` with its page implementation and
-metadata, plus a `layout.jsx`. The root `src/app/layout.jsx` owns the document
-and renders the shared header, page shell, and footer for every route.
+Romanian routes live in the `(ro)` route group and keep their existing
+unprefixed URLs. English routes use the `/en` prefix. The `(ro)` and `(en)`
+root layouts set the document language and render the shared header, page shell,
+and footer.
 
 The site palette, fonts, and Tailwind theme tokens are defined in
 `src/app/globals.css`. Pages and components use Tailwind utility classes;
@@ -17,10 +18,19 @@ themes, and saves the selected theme in browser storage.
 Use Lucide React for interface icons; keep inline SVGs for custom brand
 illustrations.
 
-The homepage is available at `/`. Other routes include `/pentru-cine`,
+The Romanian homepage is available at `/`; its English version is at `/en`.
+Other routes include `/pentru-cine`,
 `/ce-facem`, `/artisti`, `/ce-am-facut`, `/gratis`, `/cine-suntem`, `/intrebari`,
 `/contact`, `/lunar`, `/content-creation`, `/audit`, `/tiktok-start`,
 `/email-marketing`, `/facut-de-mana`, `/confidentialitate`, and `/cookies`.
+Each has an English counterpart under `/en`, such as `/en/contact`.
+
+## Languages and copy
+
+Romanian is the default language. English page copy and metadata live in a
+`copy.en.json` file beside each route's Romanian `copy.json`; homepage
+interaction content has matching `.en.json` data files. Locale is determined by
+the URL, and the language selector remembers the choice between visits.
 
 ## Getting started
 

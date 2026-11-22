@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "title": "Free social media audit checklist",
+    "description": "Get social media audit suggestions and free resources on content, strategy, and growing your brand’s online presence."
+  },
+  "hero": {
+    "unde_esti": "Where you are",
+    "na_digital": "na.digital",
+    "separator": "/",
+    "gratis": "Free",
+    "na_ia_de_aici": "Here, take this.",
+    "number_40_de_intrebari_in_8_capitole_ca_sa_ti_v": "40 questions across 8 chapters, so you can audit your own account during a break. It’s the same checklist we use for NA Audit."
+  },
+  "sections": {
+    "lasa_ne_emailul_si_e_a_ta": {
+      "gratis": "free",
+      "lasa_ne_emailul_si_e_a_ta": "Leave us your email and it’s yours.",
+      "verifica_ti_singur_contul_punct_cu_punct": "Audit your own account, step by step.",
+      "emailul_tau": "Your email",
+      "nume_firma_ro": "name@company.com",
+      "trimite_mi_lista": "Send me the checklist",
+      "vreau_si_newsletterul_na_din_cand_in_can": "I’d also like the na newsletter, every now and then.",
+      "folosim_emailul_doar_pentru_ce_ai_bifat": "We use your email only for what you have selected. Details in ",
+      "politica_de_confidentialitate": "the privacy policy",
+      "period": ".",
+      "lista_gratuita": "Free checklist"
+    },
+    "ce_e_in_lista": {
+      "ce_e_in_lista": "What’s in the checklist",
+      "number_1": "1",
+      "profilul": "The profile",
+      "vitrina_pe_care_oamenii_o_judeca_in_cate": "The storefront people judge in a few seconds.",
+      "number_2": "2",
+      "feed_ul": "The feed",
+      "testul_ultimelor_9_postari": "A test of your latest 9 posts.",
+      "number_3": "3",
+      "continutul": "The content",
+      "nativ_sau_adaptat_diferenta_se_vede_din": "Native or adapted: the difference is visible from the first second.",
+      "number_4": "4",
+      "ritmul": "The rhythm",
+      "consecventa_bate_inspiratia": "Consistency beats inspiration.",
+      "number_5": "5",
+      "comunitatea": "The community",
+      "un_cont_care_nu_raspunde_e_un_panou_publ": "An account that doesn’t reply is a billboard.",
+      "number_6": "6",
+      "cifrele": "The numbers",
+      "salvarile_si_mesajele_spun_mai_mult_deca": "Saves and messages say more than likes.",
+      "number_7": "7",
+      "de_la_feed_la_vanzare": "From feed to sales",
+      "unde_ajunge_omul_dupa_ce_te_place": "Where people end up after they like you.",
+      "number_8": "8",
+      "partea_legala": "The legal side",
+      "colaborari_marcate_ai_afirmatii_de_mediu": "Disclosed collaborations, AI, environmental claims, and music."
+    },
+    "vrei_mai_mult": {
+      "vrei_mai_mult": "Want more?",
+      "na_audit_public": "na, public audit",
+      "vrei_un_mini_audit_gratuit_facut_public": "Want a free mini-audit published publicly?",
+      "alegem_cate_un_cont_si_il_analizam_pe_co": "We choose an account from time to time and analyse it on our page, with your approval.",
+      "hai_sa_vorbim": "Let’s talk",
+      "na_audit": "NA Audit",
+      "vrei_sa_ne_uitam_noi": "Want us to take a look?",
+      "aceeasi_lista_facuta_de_noi_plus_un_plan": "The same checklist done by us, plus a 90-day plan on one page. In 10 days.",
+      "despre_na_audit": "About NA Audit"
+    },
+    "ne_vedem_la_cafea": {
+      "ne_vedem_la_cafea": "Let’s meet for coffee.",
+      "vorbim_deschis_despre_ce_ai_nevoie_si_ca": "Let’s openly discuss what you need and what it costs. Seriously, the coffee is on us.",
+      "hai_la_cafea": "Let’s get coffee"
+    }
+  }
+}

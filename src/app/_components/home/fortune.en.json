@@ -1,0 +1,144 @@
+{
+  "types": {
+    "sfat": ["Tip of the day", "#E8B03A"],
+    "adevar": ["Truth of the day", "#8CC8EA"],
+    "provocare": ["Challenge of the day", "#C3A6F2"],
+    "gest": ["Na, take it", "#E2432B"]
+  },
+  "items": [
+    [
+      "🎬",
+      "sfat",
+      "Start the video with the best part, not the logo. The first 2 seconds decide everything."
+    ],
+    [
+      "📌",
+      "sfat",
+      "Pin the post that explains what you do best. Today, not Monday."
+    ],
+    [
+      "💬",
+      "sfat",
+      "Reply to all your comments today. Yes, even the one with a single emoji."
+    ],
+    [
+      "🔤",
+      "sfat",
+      "Add captions. Many people watch on mute, on the tram or in a meeting."
+    ],
+    [
+      "📱",
+      "sfat",
+      "Film vertically. Always. Even when it seems it doesn't matter."
+    ],
+    [
+      "🧭",
+      "sfat",
+      "Read your bio as a stranger would. Can you understand what you do in 3 seconds?"
+    ],
+    ["🔁", "sfat", "Did a post perform well? Make it again, but differently."],
+    [
+      "🗓️",
+      "sfat",
+      "Write down three post ideas for next week today. Just three."
+    ],
+    [
+      "💾",
+      "sfat",
+      "Look at saves, not likes. A save means “I want more.”"
+    ],
+    [
+      "👀",
+      "sfat",
+      "Show how it's done, not just the result. The process is content."
+    ],
+    ["🫠", "adevar", "The best time to post is when you have something to say."],
+    ["🎯", "adevar", "“Going viral” isn't a goal. It's a prayer."],
+    [
+      "🧃",
+      "adevar",
+      "A poster shared on Instagram is still a poster. Just a smaller one."
+    ],
+    ["📊", "adevar", "A good report takes 5 minutes to read. The rest is decoration."],
+    [
+      "🚶",
+      "adevar",
+      "The best ideas come during a walk, not at a third brainstorming session."
+    ],
+    ["🦄", "adevar", "Today's trend expires tomorrow. A good idea doesn't."],
+    [
+      "🧱",
+      "adevar",
+      "The algorithm doesn't hate anyone. It just gets bored quickly."
+    ],
+    ["🎤", "adevar", "If you wouldn't say it out loud, don't post it."],
+    [
+      "⏱️",
+      "provocare",
+      "Film a 7-second clip today. No logo, no stock music."
+    ],
+    ["🙋", "provocare", "Show your face in a story today. One is enough."],
+    [
+      "✍️",
+      "provocare",
+      "Rewrite the first sentence of your latest post. Make it shorter."
+    ],
+    [
+      "📸",
+      "provocare",
+      "Take a photo of something at your desk you've never shown before."
+    ],
+    [
+      "🤝",
+      "provocare",
+      "Comment on 5 accounts in your niche today. Sincerely, not just “great!”"
+    ],
+    [
+      "🔕",
+      "provocare",
+      "One hour without scrolling. Then notice what you really missed."
+    ],
+    [
+      "🎁",
+      "gest",
+      "The free list we use for NA Audits is yours. Take it.",
+      "#gratis",
+      "I want the free list"
+    ],
+    [
+      "🍀",
+      "gest",
+      "Today is your lucky day. Write to us for a mini public audit and we might choose you.",
+      "#contact",
+      "Let's talk"
+    ],
+    [
+      "💌",
+      "gest",
+      "Someone needs a compliment for their feed today. Give it to them."
+    ],
+    ["🌱", "gest", "A small account isn't a weak account. It's a beginning."],
+    ["🧡", "gest", "Thank a client today. In public."],
+    [
+      "✨",
+      "gest",
+      "If you made it this far, you're our kind of person.",
+      "#contact",
+      "Let's talk"
+    ]
+  ],
+  "months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ]
+}

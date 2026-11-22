@@ -1,0 +1,79 @@
+[
+  {
+    "label": "Posts",
+    "posts": [
+      [
+        "na",
+        "The most commonly used Romanian interjection between the two of us. This is how we pass on what we know.",
+        "white"
+      ],
+      [
+        "How it's done",
+        "Tutorials you can follow yourself, without needing us.",
+        "mustard"
+      ],
+      [
+        "The trend",
+        "What's working now on Instagram and TikTok and whether it's worth it for you.",
+        "sky"
+      ],
+      ["The truth", "What nobody tells you about this industry.", "ink"],
+      [
+        "The question",
+        "Ask us anything about social media; we'll answer in a post or in the DMs.",
+        "purple"
+      ],
+      ["What we've done", "Our projects, including the process.", "tomato"]
+    ]
+  },
+  {
+    "label": "Pinned",
+    "posts": [
+      [
+        "na.digital",
+        "Two founders. Five series in the feed. Zero 80-slide decks.",
+        "white"
+      ],
+      [
+        "What we do",
+        "Social media strategy, content, and management, month after month.",
+        "mustard"
+      ],
+      [
+        "Who we are",
+        "Two friends from advertising who pass on what they know.",
+        "purple"
+      ],
+      [
+        "How we work",
+        "One filming day. Content designed directly for the feed.",
+        "sky"
+      ],
+      ["What we've done", "Stories and projects that matter to us.", "tomato"],
+      ["Let's talk", "Tell us where you are and where you want to go.", "ink"]
+    ]
+  },
+  {
+    "label": "Carousels",
+    "posts": [
+      [
+        "Your profile",
+        "What does someone see when they visit your account for the first time?",
+        "white"
+      ],
+      [
+        "Your content",
+        "Ideas you can turn into useful posts.",
+        "mustard"
+      ],
+      ["Trend or idea?", "How to choose what deserves a place in the feed.", "sky"],
+      ["The truth", "Social media, without promises of going viral.", "ink"],
+      [
+        "Good questions",
+        "Short answers to questions you ask us often.",
+        "purple"
+      ],
+      ["From our projects", "What we did, what we learned, and what came out of it.", "tomato"]
+    ]
+  }
+]
