@@ -515,7 +515,44 @@ export function HomeInteractions({ children, copy = defaultCopy, locale = "ro" }
                     aria-label={copy.fortune_ui.sparge_fortune_cookie_ul}
                     onClick={crackFortune}
                   >
-                    <span aria-hidden="true">{copy.fortune_ui.text}</span>
+                    <span className="zi-cookie-art" aria-hidden="true">
+                      <svg viewBox="0 0 220 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                          d="M19 65C19 52 30 42 43 42H104L98 111H44C31 111 21 102 21 89C21 81 25 74 31 69L19 65Z"
+                          fill="#D9A536"
+                        />
+                        <path
+                          d="M43 42C64 29 88 29 111 41C126 49 136 61 139 78L98 111C86 98 82 86 77 73C67 58 54 47 43 42Z"
+                          fill="#EFCB65"
+                        />
+                        <path
+                          d="M111 41C134 47 152 63 161 82L112 113C102 104 96 94 96 83C96 66 101 51 111 41Z"
+                          fill="#F6E7A3"
+                        />
+                        <path
+                          d="M112 113C94 121 74 129 57 125C42 121 32 105 43 88C51 76 62 65 74 55C83 47 95 43 111 41C101 51 96 66 96 83C96 94 102 104 112 113Z"
+                          fill="#F19A52"
+                        />
+                        <path
+                          d="M43 88C51 76 62 65 74 55C83 47 95 43 111 41C101 51 96 66 96 83C96 94 102 104 112 113C94 121 74 129 57 125C42 121 32 105 43 88Z"
+                          fill="url(#cookieGlow)"
+                        />
+                        <path
+                          d="M112 113L167 91L193 104L160 127L112 113Z"
+                          fill="#FFFDF3"
+                          stroke="#F4F0DD"
+                          strokeWidth="3"
+                          strokeLinejoin="round"
+                        />
+                        <defs>
+                          <linearGradient id="cookieGlow" x1="53" y1="48" x2="92" y2="127" gradientUnits="userSpaceOnUse">
+                            <stop stopColor="#D8A347" />
+                            <stop offset=".55" stopColor="#EBA85B" />
+                            <stop offset="1" stopColor="#F48C7A" />
+                          </linearGradient>
+                        </defs>
+                      </svg>
+                    </span>
                   </button>
                   <span className="zi-hint">
                     {fortuneBonus

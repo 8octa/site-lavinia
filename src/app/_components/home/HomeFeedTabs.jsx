@@ -39,11 +39,11 @@ export default function HomeFeedTabs({ copy = defaultCopy, locale = "ro" }) {
 
   return (
     <section
-      className="max-w-[1080px] [margin:0_auto] p-[0_28px_96px]"
+      className="max-w-[1080px] [margin:0_auto] p-[0_28px_96px] max-[640px]:px-[18px] max-[640px]:pb-[64px]"
       aria-label={copy.feed_ui.postari_din_feed}
     >
       <div
-        className="tabs tabs-border home-feed-tablist mb-[24px] text-[13px] font-semibold tracking-[1px] uppercase"
+        className="tabs tabs-border home-feed-tablist mb-[24px] text-[13px] font-semibold tracking-[1px] uppercase max-[640px]:gap-5 max-[640px]:overflow-x-auto max-[640px]:text-[11px]"
         role="tablist"
         aria-label={copy.feed_ui.tipul_de_postari}
       >
@@ -76,17 +76,17 @@ export default function HomeFeedTabs({ copy = defaultCopy, locale = "ro" }) {
           hidden={index !== activeTab}
           tabIndex={0}
         >
-          <GridEntrance className="na-grid flex flex-wrap gap-[6px]">
+          <GridEntrance className="na-grid flex flex-wrap gap-[6px] max-[640px]:grid max-[640px]:grid-cols-2 max-[640px]:gap-[3px]">
             {feed.posts.map(([title, description, surface], postIndex) => (
               <article
                 key={title}
-                className={`na-tile ${feedTileClasses[surface]} [flex:1_1_300px] aspect-[4/5] p-[28px] box-border flex flex-col justify-between`}
+                className={`na-tile ${feedTileClasses[surface]} [flex:1_1_300px] aspect-[4/5] p-[28px] box-border flex flex-col justify-between max-[640px]:flex-none max-[640px]:aspect-[4/5] max-[640px]:p-[14px]`}
               >
                 <span
                   className={
                     postIndex === 0
-                      ? "[font-family:'Unbounded',_sans-serif] font-extrabold text-[76px] leading-[0.9] tracking-[-3px]"
-                      : "[font-family:'Unbounded',_sans-serif] font-extrabold text-[38px] leading-[1]"
+                      ? "[font-family:'Unbounded',_sans-serif] font-extrabold text-[76px] leading-[0.9] tracking-[-3px] max-[640px]:text-[34px] max-[640px]:tracking-[-2px]"
+                      : "[font-family:'Unbounded',_sans-serif] font-extrabold text-[38px] leading-[1] max-[640px]:text-[28px]"
                   }
                 >
                   {title}

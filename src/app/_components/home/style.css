@@ -76,13 +76,6 @@
       width: 24px;
       height: 24px;
     }
-    .na-grid {
-      gap: 3px !important;
-    }
-    .na-tile {
-      flex: 0 0 calc((100% - 6px) / 3) !important;
-      padding: 10px !important;
-    }
     .na-tile-d {
       display: none !important;
     }
@@ -371,7 +364,8 @@
   }
   .zi-cookie {
     align-self: flex-start;
-    font-size: 120px;
+    width: 220px;
+    max-width: 70%;
     line-height: 1;
     background: none;
     border: 0;
@@ -384,6 +378,11 @@
   }
   .zi-cookie span {
     display: inline-block;
+  }
+  .zi-cookie-art,
+  .zi-cookie-art svg {
+    display: block;
+    width: 100%;
   }
   .zi-cookie.wiggle span {
     animation: zi-wiggle 1.6s ease-in-out infinite;
@@ -598,22 +597,6 @@
   .st-bars {
     position: relative;
     z-index: 3;
-  }
-  @media (max-width: 640px) {
-    .na-tile.na-tile-first {
-      flex: 0 0 100% !important;
-      aspect-ratio: auto !important;
-      flex-direction: row !important;
-      align-items: center;
-      justify-content: flex-start !important;
-      gap: 16px;
-      padding: 16px !important;
-    }
-    .na-tile-first .na-tile-d {
-      display: block !important;
-      font-size: 14px;
-      line-height: 1.45;
-    }
   }
   .na-grid.na-anim .na-tile {
     opacity: 0;

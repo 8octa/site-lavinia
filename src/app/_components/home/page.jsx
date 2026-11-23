@@ -11,14 +11,14 @@ export default function HomePage({ copy = defaultCopy, locale = "ro" }) {
         {"\n"}
         <section
           className={
-            "max-w-[1080px] [margin:0_auto] p-[64px_28px_40px] flex flex-wrap items-center gap-[48px]"
+            "max-w-[1080px] [margin:0_auto] p-[64px_28px_40px] flex flex-wrap items-center gap-[48px] max-[640px]:flex-col max-[640px]:items-start max-[640px]:gap-7 max-[640px]:pt-8 max-[640px]:pb-8"
           }
           id={"s-top"}
         >
           {"\n"}
           <button
             type={"button"}
-            className={"na-av-btn"}
+            className={"na-av-btn max-[640px]:w-[144px] max-[640px]:h-[144px]"}
             aria-label={copy.hero.deschide_fortune_cookie_ul_zilei}
           >
             <span className={"na-av-logo"} aria-hidden={"true"}>
@@ -49,7 +49,7 @@ export default function HomePage({ copy = defaultCopy, locale = "ro" }) {
           </button>
           {"\n"}
           <div
-            className={"[flex:1_1_480px] min-w-[0] flex flex-col gap-[18px]"}
+            className={"[flex:1_1_480px] min-w-[0] flex flex-col gap-[18px] max-[640px]:w-full max-[640px]:gap-4"}
           >
             {"\n"}
             <h1
@@ -59,7 +59,7 @@ export default function HomePage({ copy = defaultCopy, locale = "ro" }) {
             >
               <span
                 className={
-                  "[font-family:'Unbounded',_sans-serif] font-bold text-[34px] leading-[1.1]"
+                  "[font-family:'Unbounded',_sans-serif] font-bold text-[34px] leading-[1.1] max-[640px]:text-[28px]"
                 }
               >
                 {copy.hero.na_digital}
@@ -73,7 +73,7 @@ export default function HomePage({ copy = defaultCopy, locale = "ro" }) {
               </span>
             </h1>
             {"\n"}
-            <div className={"flex flex-wrap gap-[10px_32px]"}>
+            <div className={"flex flex-wrap gap-[10px_32px] max-[640px]:grid max-[640px]:grid-cols-1 max-[640px]:gap-2"}>
               {"\n"}
               <span>
                 <strong
@@ -126,11 +126,11 @@ export default function HomePage({ copy = defaultCopy, locale = "ro" }) {
               {"\n"}
             </div>
             {"\n"}
-            <div className={"flex flex-wrap gap-[10px]"}>
+            <div className={"flex flex-wrap gap-[10px] max-[640px]:grid max-[640px]:grid-cols-1 max-[640px]:w-full"}>
               {"\n"}
               <a
                 className={
-                  "inline-flex items-center justify-center min-h-[48px] p-[0_26px] bg-brand-tomato text-brand-ink rounded-[12px] no-underline font-bold"
+                  "inline-flex items-center justify-center min-h-[48px] p-[0_26px] bg-brand-tomato text-brand-ink rounded-[12px] no-underline font-bold max-[640px]:w-full"
                 }
                 href={localizedHref("/contact", locale)}
               >
@@ -139,7 +139,7 @@ export default function HomePage({ copy = defaultCopy, locale = "ro" }) {
               {"\n"}
               <a
                 className={
-                  "inline-flex items-center justify-center min-h-[48px] p-[0_26px] bg-brand-white [border:1px_solid_var(--color-brand-border-strong)] rounded-[12px] no-underline font-semibold"
+                  "inline-flex items-center justify-center min-h-[48px] p-[0_26px] bg-brand-white [border:1px_solid_var(--color-brand-border-strong)] rounded-[12px] no-underline font-semibold max-[640px]:w-full"
                 }
                 href={localizedHref("/ce-am-facut", locale)}
               >
